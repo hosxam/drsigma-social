@@ -1,0 +1,24 @@
+{
+ "date": "2026-11-18",
+ "slug": "first-step-01_hyperkalaemia",
+ "type": "mcq",
+ "tag": "FIRST STEP? #01",
+ "kicker": "Emergency Medicine",
+ "stem": "K+ 6.9 mmol/L. ECG: peaked T waves, widening QRS.",
+ "question": "What do you give FIRST?",
+ "options": [
+  "IV insulin + dextrose",
+  "IV calcium gluconate",
+  "Salbutamol nebuliser",
+  "Oral calcium resonium",
+  "IV furosemide"
+ ],
+ "correct": "B",
+ "explain": "Calcium protects the heart within minutes but does NOT lower K+. Then shift it: insulin-dextrose ± salbutamol.",
+ "hook": "Option A is the trap",
+ "caption": "K+ 6.9. Peaked T waves. QRS getting wider.\nWhat goes in FIRST? Drop your letter before the timer ends 👇\n\nThe answer is at the end. No peeking.\nFollow for one EMREE question every day.\n\n#EMREE #UAEdoctors #medicalinterns #hyperkalemia #emergencymedicine",
+ "pinned_comment": "B. Calcium gluconate first. It stabilises the myocardium but doesn't lower K+. Then insulin-dextrose ± salbutamol.",
+ "sources": [
+  "UK Kidney Association, Treatment of Acute Hyperkalaemia in Adults (2023)"
+ ]
+}
