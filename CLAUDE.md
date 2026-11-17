@@ -1,4 +1,6 @@
-# DrSigma Instagram autopilot: daily runbook
+# DrSigma Instagram autopilot
+
+**Current mode (from 17 Nov 2026): AI skits.** Hossam switched the account to Higgsfield NPC vs SIGMA comedy skits, one a day at 10:00 Asia/Dubai, made in batches by the skit factory. Follow `SKITS.md`. The quiz "Daily procedure" below is RETIRED (kept for reference only); its week-1 posts were removed. The fixed facts, voice and medical rules below still apply to every skit.
 
 This repo makes and publishes one post a day to Instagram @drsigma.emree (owner: Dr Hossam Abdelmageed, DrSigma, EMREE exam prep, drsigma.net). Posting is FULLY AUTOMATIC: Hossam chose not to review posts. That makes medical accuracy your job. When in doubt, choose a different, safer topic rather than post something uncertain.
 
@@ -18,7 +20,7 @@ This repo makes and publishes one post a day to Instagram @drsigma.emree (owner:
 5. Name the source in `sources` of the spec, and on the slide/explanation when it matters.
 6. Topics marked "verify" in content/calendar.md must be verified against the UAE document or swapped out.
 
-## Daily procedure (run in the evening; it prepares TOMORROW's post)
+## Daily procedure (RETIRED 17 Nov 2026, kept for reference)
 1. `cd` to this repo, `git pull`. Work out TOMORROW's date in Asia/Dubai. If `content/posts/<tomorrow>.json` exists AND its media is in `media/` AND Metricool already has a post scheduled for tomorrow (getScheduledPosts), stop: nothing to do except step 8.
 2. Performance check: Metricool `getAnalyticsAvailableMetrics` / `getAnalyticsDataByMetrics` for instagram, last 14 days (or vidIQ `vidiq_ig_profile_reels` for @drsigma.emree, 5 credits). Note which series gets the most views/comments/shares.
 3. Trend check (keep vidIQ spend to 1-2 calls, 5 credits each): `vidiq_instagram_tiktok_outlier_search` for medical-exam / med-student quiz or meme reels from the last 14 days. Borrow formats and hooks, never content.

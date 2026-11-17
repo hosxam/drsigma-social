@@ -10,3 +10,4 @@
 | 2026-11-23 | ABG IN 10s #01 | Normal pH, mixed met acidosis + resp alkalosis | 2026-11-23_abg-01_normal-ph.mp4 | Scheduled 10:00 (id 431323609) | Made in setup chat |
 | 2026-11-24 | PROOF #01 | Question bank promo | 2026-11-24_proof-01_bank.mp4 | Scheduled 10:00 (id 431323645) | Made in setup chat |
 | 2026-11-17 (run) | Check | Tomorrow's post (2026-11-18 FIRST STEP? #01) already scheduled | 2026-11-18_first-step-01_hyperkalaemia.mp4 | Confirmed PENDING 10:00 (id 431322963) | No new post made; no prior published posts to report views for |
+| 2026-11-17 | Mode change | Quiz autopilot retired; week-1 posts (18-24 Nov) removed and replaced by AI skits. See content/skits/log.md | | | |

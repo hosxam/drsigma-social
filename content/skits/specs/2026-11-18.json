@@ -1,0 +1,27 @@
+{
+ "date": "2026-11-18",
+ "n": 1,
+ "slug": "highlighter",
+ "title": "NPC highlights the whole book",
+ "raw": "content/skits/raw/2026-11-18_raw.mp4",
+ "job_id": "4a6673dc-8317-49d5-b2d4-d173dc72338a",
+ "duration": 10,
+ "labels": [["NPC", 0.25], ["SIGMA", 0.75]],
+ "beats": [
+  {"t": 0, "text": "EMREE in 3 weeks."},
+  {"t": 3.0, "text": "NPC: highlights the whole book."},
+  {"t": 6.9, "text": "SIGMA: just does the questions."}
+ ],
+ "fx": [
+  {"kind": "punch", "t": 4.6, "dur": 0.9, "amt": 0.14},
+  {"kind": "freeze", "t": 5.6, "dur": 1.0, "text": "NPC: 0 questions done"},
+  {"kind": "shake", "t": 6.6, "amp": 16},
+  {"kind": "punch", "t": 8.9, "dur": 1.0, "amt": 0.12},
+  {"kind": "flash", "t": 8.9}
+ ],
+ "sfx": [[1.0, "slide", 0.6], [5.0, "snore", 0.9], [7.6, "ding", 0.8], [8.9, "boom", 0.7]],
+ "end": ["Highlighting isn't studying.", "Questions are."],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Yellow pages don't pass exams. Questions do.\n\nTag the friend who's on page 400 with a dead highlighter.\n\n#EMREE #medicalinterns #UAEdoctors #medstudentlife #studytok",
+ "fact": null
+}
