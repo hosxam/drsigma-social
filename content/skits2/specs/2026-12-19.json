@@ -1,0 +1,86 @@
+{
+ "date": "2026-12-19",
+ "n": 32,
+ "slug": "boss-fight",
+ "title": "EMREE final boss",
+ "raw": "content/skits2/raw/2026-12-19_raw.mp4",
+ "job_id": "5697ee0b-274f-4058-8ea1-68b861212711",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "EMREE: the final boss."
+  },
+  {
+   "t": 1.6,
+   "text": "NPC attacks with: a highlighter."
+  },
+  {
+   "t": 4.2,
+   "text": "SIGMA attacks with: 4,900+ questions."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "hp",
+   "t0": 0.3,
+   "t1": 8.6,
+   "label": "EMREE"
+  },
+  {
+   "kind": "stamp",
+   "t": 2.9,
+   "text": "MISS",
+   "color": "coral"
+  },
+  {
+   "kind": "combo",
+   "t": 6.4,
+   "n": 5
+  },
+  {
+   "kind": "stamp",
+   "t": 8.6,
+   "text": "CRITICAL HIT",
+   "color": "gold"
+  },
+  {
+   "kind": "shake",
+   "t": 3.2,
+   "amp": 22
+  },
+  {
+   "kind": "whip",
+   "t": 4.1
+  },
+  {
+   "kind": "speed",
+   "t": 5.6,
+   "dur": 2.2
+  },
+  {
+   "kind": "flash",
+   "t": 8.6
+  }
+ ],
+ "sfx": [
+  [
+   1.9,
+   "hit",
+   0.8
+  ],
+  [
+   8.8,
+   "boom",
+   0.9
+  ]
+ ],
+ "end": [
+  "Bosses aren't beaten by reading.",
+  "They're beaten by reps."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Highlighters do 1 damage. Questions do critical hits.\n\nWhat's your weapon of choice? Wrong answers only.\n\n#EMREE #medicalinterns #UAEdoctors #bossfight #studytok",
+ "fact": null
+}

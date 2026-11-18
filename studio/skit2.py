@@ -295,7 +295,9 @@ def end_card(t, lines, cta):
     if _logo is None:
         _logo = Image.open(os.path.join(ROOT, "assets/logo-m.webp")).convert("RGBA")
     im = Image.new("RGBA", (W, H), NIGHT + (255,)); d = ImageDraw.Draw(im)
-    for y in range(0, H, 6): d.line((0, y, W, y), fill=(250, 248, 242, 3))
+    sl = Image.new("RGBA", (W, H), (0, 0, 0, 0)); ds = ImageDraw.Draw(sl)
+    for y in range(0, H, 6): ds.line((0, y, W, y), fill=(250, 248, 242, 7))
+    im.alpha_composite(sl); d = ImageDraw.Draw(im)
     # ECG sweep
     u = clamp(t / 1.1); pts = [p for p in ecg_points(-20, W + 20, 1500, 120, phase=0.2) if p[0] <= -20 + (W + 40) * u]
     if len(pts) > 1: glow_line(im, pts, CYAN, 6, 26, 200)
