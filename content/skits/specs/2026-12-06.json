@@ -1,0 +1,68 @@
+{
+ "date": "2026-12-06",
+ "n": 19,
+ "slug": "hypoglycaemia",
+ "title": "Unconscious hypo, no IV",
+ "raw": "content/skits/raw/2026-12-06_raw.mp4",
+ "job_id": "08ac7f4c-6ce2-4d79-8c02-5d0a9254a150",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Unconscious hypoglycaemia. No IV."
+  },
+  {
+   "t": 1.5,
+   "text": "NPC: tries oral juice."
+  },
+  {
+   "t": 6.0,
+   "text": "SIGMA: IM glucagon 1 mg."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "freeze",
+   "t": 4.4,
+   "dur": 0.9,
+   "text": "AIRWAY RISK"
+  },
+  {
+   "kind": "punch",
+   "t": 8.6,
+   "dur": 0.9,
+   "amt": 0.12
+  }
+ ],
+ "sfx": [
+  [
+   5.4,
+   "boing"
+  ],
+  [
+   8.6,
+   "ding"
+  ]
+ ],
+ "end": [
+  "Nothing by mouth",
+  "if they can't swallow."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Unconscious hypoglycaemia with no IV access: IM glucagon 1 mg. Never oral glucose to someone who can't protect their airway.\n\nSave it.\n\n#EMREE #hypoglycemia #emergencymedicine #medicalinterns #UAEdoctors",
+ "fact": {
+  "claim": "Adult hypoglycaemia, unconscious, no IV access: glucagon 1 mg IM; no oral glucose if unable to swallow safely",
+  "check": "JBDS-IP hypoglycaemia guideline (latest) or ADA Standards of Care 2026",
+  "verified": "JBDS-IP Hospital management of hypoglycaemia in adults (via NHS Scotland CEM summary): glucagon 1 mg IM if unconscious/NBM. Checked 18 Nov 2026."
+ }
+}
