@@ -12,3 +12,4 @@
 | 2026-12-26 | 39 | id-card-hunt | c28e9480-4a4f-48de-a129-618416f3fa57 | humour | 433384216 | Scheduled 10:00 |
 | 2026-12-27 | 40 | brain-control-room | ba19fb4d-9ca3-45b4-8719-a418c018d6e3 | humour | 433410958 | Scheduled 10:00 |
 | 2026-12-28 | 41 | sepsis | 1f47429e-892f-4532-b4ff-22f1e2e88e0a | NICE NG253 rec 1.8.3: holds | 433435840 | Scheduled 10:00 |
+| 2026-12-29 | 42 | rank-up | fa01cb35-1868-4626-b691-c1d9dc7b85ed | 2.0 feature (rank) | 433461380 | Scheduled 10:00 |
