@@ -1,0 +1,72 @@
+{
+ "date": "2026-11-20",
+ "n": 3,
+ "slug": "anaphylaxis",
+ "title": "Anaphylaxis first move",
+ "raw": "content/skits/raw/2026-11-20_raw.mp4",
+ "job_id": "cd579ffe-38af-4f19-8425-7040e2e3a327",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Wheeze. BP crashing. Face swelling."
+  },
+  {
+   "t": 2.4,
+   "text": "NPC: gives an antihistamine tablet."
+  },
+  {
+   "t": 5.0,
+   "text": "SIGMA: IM adrenaline 0.5 mg, thigh."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "freeze",
+   "t": 4.0,
+   "dur": 0.9,
+   "text": "WRONG FIRST MOVE"
+  },
+  {
+   "kind": "punch",
+   "t": 7.0,
+   "dur": 0.9,
+   "amt": 0.12
+  }
+ ],
+ "sfx": [
+  [
+   4.1,
+   "buzz"
+  ],
+  [
+   8.0,
+   "boing"
+  ],
+  [
+   9.4,
+   "ding"
+  ]
+ ],
+ "end": [
+  "Adrenaline first.",
+  "Everything else after."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Anaphylaxis in an adult: IM adrenaline 0.5 mg (0.5 mL of 1 mg/mL) into the anterolateral thigh. Antihistamines are not the first move.\n\nSave this for your EMREE week.\n\n#EMREE #anaphylaxis #emergencymedicine #medicalinterns #UAEdoctors",
+ "fact": {
+  "claim": "Adult anaphylaxis first-line: IM adrenaline 0.5 mg (1 mg/mL), anterolateral thigh; antihistamines are not first-line",
+  "check": "Resuscitation Council UK anaphylaxis guideline 2021 (or newer)",
+  "verified": "Resuscitation Council UK Emergency treatment of anaphylaxis 2021 + RCUK evidence update (Resuscitation 2021, PMID 33895231). Checked 18 Nov 2026."
+ }
+}
