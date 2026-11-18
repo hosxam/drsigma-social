@@ -33,3 +33,4 @@
 | 2026-12-16 | 29 | pomodoro | 4d497e41-a966-442b-9500-4a6b4b4365eb | humour | 432832640 | Scheduled 10:00 |
 | 2026-12-17 | 30 | mock-score | 3f4c4d6a-be42-48b3-815d-75e03c09cbb7 | humour | 432866069 | Scheduled 10:00 |
 | 2026-12-18 | 31 | exam-hall-walk | 7f9902dd-89f8-4baf-b1f8-0dbb97c75310 | humour | 432902203 | Scheduled 10:00 |
+| 2026-11-29 | 12 | post-nights (swap for tension-pneumo) | 34ad6c4e-4d64-41a5-8c82-99fce39a232a | humour | 432943163 | Scheduled 10:00 |
