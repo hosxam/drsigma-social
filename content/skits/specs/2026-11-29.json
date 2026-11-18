@@ -1,0 +1,68 @@
+{
+ "date": "2026-11-29",
+ "n": 12,
+ "slug": "post-nights",
+ "title": "Studying after a night shift",
+ "raw": "content/skits/raw/2026-11-29_raw.mp4",
+ "job_id": "34ad6c4e-4d64-41a5-8c82-99fce39a232a",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Post night shift: \"I'll study now.\""
+  },
+  {
+   "t": 3.0,
+   "text": "NPC: 4 minutes later."
+  },
+  {
+   "t": 6.8,
+   "text": "SIGMA: sleeps first. Studies fresh."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "punch",
+   "t": 4.6,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "punch",
+   "t": 9.0,
+   "dur": 0.9,
+   "amt": 0.12
+  }
+ ],
+ "sfx": [
+  [
+   1.0,
+   "tick"
+  ],
+  [
+   4.5,
+   "boing"
+  ],
+  [
+   9.0,
+   "ding"
+  ]
+ ],
+ "end": [
+  "Rest is part of the plan.",
+  "Not a reward after it."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Studying on zero sleep feels productive. It rarely is.\n\nTag the friend who studies straight after nights.\n\n#EMREE #internlife #medicalinterns #UAEdoctors #nightshift",
+ "fact": null
+}
