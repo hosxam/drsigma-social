@@ -1,0 +1,62 @@
+{
+ "date": "2026-11-22",
+ "n": 5,
+ "slug": "parents-think",
+ "title": "What parents think vs reality",
+ "raw": "content/skits/raw/2026-11-22_raw.mp4",
+ "job_id": "903ac2f9-510d-4f3e-9392-da883dec2585",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "What my parents think intern year is:"
+  },
+  {
+   "t": 5.0,
+   "text": "What intern year actually is:"
+  },
+  {
+   "t": 8.4,
+   "text": ""
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "t": 5.0
+  },
+  {
+   "kind": "punch",
+   "t": 8.4,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "shake",
+   "t": 8.4,
+   "amp": 14
+  }
+ ],
+ "sfx": [
+  [
+   0.3,
+   "riser"
+  ],
+  [
+   5.0,
+   "scratch"
+  ],
+  [
+   7.4,
+   "buzz"
+  ]
+ ],
+ "end": [
+  "Tired is normal.",
+  "Unprepared is optional."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "My mum still thinks I'm on the cover of a medical drama.\n\nTag your batchmate who's living part 2.\n\n#internlife #EMREE #medicalinterns #UAEdoctors #doctorlife",
+ "fact": null
+}
