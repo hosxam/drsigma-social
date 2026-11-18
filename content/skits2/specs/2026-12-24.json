@@ -1,0 +1,60 @@
+{
+ "date": "2026-12-24",
+ "n": 37,
+ "slug": "brain-tabs",
+ "title": "300 tabs",
+ "raw": "content/skits2/raw/2026-12-24_raw.mp4",
+ "job_id": "874a82e6-826f-4f2a-bc80-8d30ed1a776d",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Studying for the EMREE:"
+  },
+  {
+   "t": 1.8,
+   "text": "NPC's brain: 300 open tabs."
+  },
+  {
+   "t": 7.0,
+   "text": "SIGMA's brain: one."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "glitch",
+   "t": 3.0,
+   "dur": 0.7
+  },
+  {
+   "kind": "shake",
+   "t": 5.2,
+   "amp": 16
+  },
+  {
+   "kind": "punch",
+   "t": 7.8,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "stamp",
+   "t": 5.4,
+   "text": "OVERHEATED",
+   "color": "coral"
+  },
+  {
+   "kind": "whip",
+   "t": 7.0
+  }
+ ],
+ "sfx": [],
+ "end": [
+  "One topic.",
+  "Done properly."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Your brain has the same tab limit as your laptop.\n\nHow many tabs are open right now? Screenshot not required.\n\n#EMREE #medicalinterns #UAEdoctors #studytips #focus",
+ "fact": null
+}
