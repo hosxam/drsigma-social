@@ -1,0 +1,64 @@
+{
+ "date": "2026-12-02",
+ "n": 15,
+ "slug": "eid-break",
+ "title": "Long weekend",
+ "raw": "content/skits/raw/2026-12-02_raw.mp4",
+ "job_id": "a7808073-0f02-4b56-8021-7ada06f99747",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Eid Al Etihad break."
+  },
+  {
+   "t": 2.8,
+   "text": "NPC: whole week off. Full reset."
+  },
+  {
+   "t": 6.2,
+   "text": "SIGMA: celebrate + 1 mock a day."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "punch",
+   "t": 3.4,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "punch",
+   "t": 7.0,
+   "dur": 0.9,
+   "amt": 0.12
+  }
+ ],
+ "sfx": [
+  [
+   3.4,
+   "boing"
+  ],
+  [
+   7.0,
+   "ding"
+  ]
+ ],
+ "end": [
+  "Celebrate.",
+  "Then do one mock."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Happy Eid Al Etihad. Enjoy it, then sit one timed mock. Both can be true.\n\nWho's studying this weekend? Raise your hand in the comments.\n\n#EidAlEtihad #EMREE #UAEdoctors #medicalinterns #UAE",
+ "fact": null
+}
