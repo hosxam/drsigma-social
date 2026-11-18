@@ -1,0 +1,59 @@
+{
+ "date": "2026-12-16",
+ "n": 29,
+ "slug": "pomodoro",
+ "title": "5 minute break",
+ "raw": "content/skits/raw/2026-12-16_raw.mp4",
+ "job_id": "4d497e41-a966-442b-9500-4a6b4b4365eb",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "\"5 minute break.\""
+  },
+  {
+   "t": 2.0,
+   "text": "The break:"
+  },
+  {
+   "t": 8.0,
+   "text": "3 hours later."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "punch",
+   "t": 2.0,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "freeze",
+   "t": 8.4,
+   "dur": 0.9,
+   "text": "WHERE DID THE DAY GO"
+  }
+ ],
+ "sfx": [
+  [
+   0.6,
+   "tick"
+  ],
+  [
+   2.0,
+   "whoosh"
+  ],
+  [
+   8.4,
+   "buzz"
+  ]
+ ],
+ "end": [
+  "Breaks need a timer",
+  "you actually obey."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Short breaks work. Short breaks with a phone don't.\n\nTag the friend whose breaks have breaks.\n\n#EMREE #medicalinterns #UAEdoctors #pomodoro #studytips",
+ "fact": null
+}
