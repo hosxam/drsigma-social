@@ -1,0 +1,76 @@
+{
+ "date": "2026-12-03",
+ "n": 16,
+ "slug": "meningitis",
+ "title": "Suspected meningitis",
+ "raw": "content/skits/raw/2026-12-03_raw.mp4",
+ "job_id": "6dd477de-444a-4e8e-97c9-3250aa84813a",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Fever. Neck stiffness. LP delayed."
+  },
+  {
+   "t": 2.5,
+   "text": "NPC: waits for CT + LP first."
+  },
+  {
+   "t": 5.8,
+   "text": "SIGMA: cultures, then IV antibiotics now."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "freeze",
+   "t": 4.8,
+   "dur": 0.9,
+   "text": "CLOCK IS TICKING"
+  },
+  {
+   "kind": "punch",
+   "t": 9.0,
+   "dur": 0.9,
+   "amt": 0.12
+  }
+ ],
+ "sfx": [
+  [
+   3.6,
+   "tick"
+  ],
+  [
+   4.0,
+   "tick"
+  ],
+  [
+   4.4,
+   "tick"
+  ],
+  [
+   9.0,
+   "ding"
+  ]
+ ],
+ "end": [
+  "Don't let the LP",
+  "delay the antibiotics."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Suspected bacterial meningitis and the LP will be delayed: take blood cultures and give IV antibiotics now. Don't wait.\n\nSave this for the exam.\n\n#EMREE #meningitis #emergencymedicine #medicalinterns #UAEdoctors",
+ "fact": {
+  "claim": "Suspected bacterial meningitis: if LP cannot be done promptly, take blood cultures and start IV antibiotics without waiting for LP/CT",
+  "check": "NICE NG240 Meningitis (bacterial) and meningococcal disease (2024)",
+  "verified": "NICE NG240 (2024) recs 1.4.8-1.4.9, 1.6.1, 1.6.3. Checked 18 Nov 2026."
+ }
+}
