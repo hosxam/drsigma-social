@@ -1,0 +1,71 @@
+{
+ "date": "2026-12-01",
+ "n": 14,
+ "slug": "drug-of-choice",
+ "title": "Drug of choice reflex",
+ "raw": "content/skits/raw/2026-12-01_raw.mp4",
+ "job_id": "731e817f-9ad4-4350-9647-a5f8d30e4443",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "EMREE quiz show. Status epilepticus."
+  },
+  {
+   "t": 1.5,
+   "text": "NPC: \"Phenytoin first!\""
+  },
+  {
+   "t": 5.0,
+   "text": "SIGMA: benzodiazepine first."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "t": 1.6,
+   "amp": 14
+  },
+  {
+   "kind": "punch",
+   "t": 7.6,
+   "dur": 0.9,
+   "amt": 0.12
+  }
+ ],
+ "sfx": [
+  [
+   1.6,
+   "buzz"
+  ],
+  [
+   7.5,
+   "cash"
+  ],
+  [
+   5.5,
+   "pop"
+  ]
+ ],
+ "end": [
+  "Benzo first.",
+  "Second-line after."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Convulsive status epilepticus: a benzodiazepine first (IV lorazepam in hospital; buccal midazolam or rectal diazepam in the community). Levetiracetam, phenytoin or valproate only if 2 benzo doses fail.\n\nSave this.\n\n#EMREE #statusepilepticus #emergencymedicine #medicalinterns #UAEdoctors",
+ "fact": {
+  "claim": "Convulsive status epilepticus: benzodiazepine is first-line; antiseizure second-line (levetiracetam/phenytoin/valproate) after",
+  "check": "NICE NG217 epilepsies (2022) or ESETT-based AES guideline",
+  "verified": "NICE NG217 section 7 (2022). Checked 18 Nov 2026."
+ }
+}
