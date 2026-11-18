@@ -1,0 +1,59 @@
+{
+ "date": "2026-12-09",
+ "n": 22,
+ "slug": "ward-round",
+ "title": "Consultant asks one question",
+ "raw": "content/skits/raw/2026-12-09_raw.mp4",
+ "job_id": "f20bc10e-1df5-4cc9-b900-258355839fcb",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Consultant: \"Intern, what's the next step?\""
+  },
+  {
+   "t": 4.0,
+   "text": "Me, who knew it 5 minutes ago:"
+  },
+  {
+   "t": 8.8,
+   "text": ""
+  }
+ ],
+ "fx": [
+  {
+   "kind": "punch",
+   "t": 2.0,
+   "amt": 0.22,
+   "dur": 1.2
+  },
+  {
+   "kind": "freeze",
+   "t": 5.6,
+   "dur": 1.0,
+   "text": "BRAIN.EXE STOPPED"
+  }
+ ],
+ "sfx": [
+  [
+   2.0,
+   "boom"
+  ],
+  [
+   5.6,
+   "glitch"
+  ],
+  [
+   8.4,
+   "boing"
+  ]
+ ],
+ "end": [
+  "Knowing isn't recalling.",
+  "Practise under pressure."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "You knew it. Then someone asked you out loud.\n\nThat's why you practise with a timer. Tag your ward round partner.\n\n#internlife #EMREE #medicalinterns #UAEdoctors #wardround",
+ "fact": null
+}
