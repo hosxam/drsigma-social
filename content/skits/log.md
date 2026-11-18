@@ -8,3 +8,4 @@
 | 2026-11-21 | 04 | group-chat | 6d6d2cc5-56e9-4666-8600-a6eca2315d4a | humour | 432355985 (updated draft) | Scheduled 10:00 |
 | 2026-11-22 | 05 | parents-think | 903ac2f9-510d-4f3e-9392-da883dec2585 | humour | 432361702 (updated draft) | Scheduled 10:00 |
 | 2026-11-23 | 06 | hyperkalaemia | 12cebd64-3ff3-42f0-b93f-81800805d6c0 (retry; 1st 3ccc621a showed near-flat monitor) | UKKA hyperkalaemia 2023: holds | 432388003 (updated draft) | Scheduled 10:00; monitor blurred (retry also ended flat) |
+| 2026-11-24 | 07 | one-more-episode | f75306c2-3a3a-4236-bd74-24d1ceca1fb8 (retry; 1st 19454eb4 had snack/laptop brand logos) | humour | 432396678 (updated draft) | Scheduled 10:00 |
