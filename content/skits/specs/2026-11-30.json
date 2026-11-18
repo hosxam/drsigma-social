@@ -1,0 +1,62 @@
+{
+ "date": "2026-11-30",
+ "n": 13,
+ "slug": "study-plan",
+ "title": "The study plan",
+ "raw": "content/skits/raw/2026-11-30_raw.mp4",
+ "job_id": "e5691b9a-502b-4fec-a0a7-73c90e20e43d",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "NPC spent 6 hours making a study plan."
+  },
+  {
+   "t": 6.6,
+   "text": "Time left to study:"
+  },
+  {
+   "t": 8.3,
+   "text": "SIGMA: 40 questions a day. That's it."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "punch",
+   "t": 6.6,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "shake",
+   "t": 7.2,
+   "amp": 14
+  }
+ ],
+ "sfx": [
+  [
+   1.0,
+   "slide"
+  ],
+  [
+   3.0,
+   "whoosh"
+  ],
+  [
+   7.0,
+   "snore"
+  ],
+  [
+   8.5,
+   "ding"
+  ]
+ ],
+ "end": [
+  "A plan you follow",
+  "beats a plan you frame."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Pretty timetables don't sit the exam.\n\nWhat's your daily question target? Comment the number.\n\n#EMREE #studyplan #medicalinterns #UAEdoctors #studytips",
+ "fact": null
+}
