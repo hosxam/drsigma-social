@@ -7,3 +7,4 @@
 | 2026-12-21 | 34 | vf-shock | 4213679c-dbdd-4be1-8991-a613b94d036a | RCUK Adult ALS 2025: holds | 433242886 | Scheduled 10:00 |
 | 2026-12-22 | 35 | power-up | fa7bee5c-73fe-4f55-8c53-ed2fba16d4fd | humour | 433275068 | Scheduled 10:00 |
 | 2026-12-23 | 36 | deadline-23dec | a1e371a3-87c6-47a2-a84b-034b05b46d5b | NIHS calendar (sitting 2 enrolment 4-23 Dec): holds | 433311542 | Scheduled 10:00 |
+| 2026-12-24 | 37 | brain-tabs | 874a82e6-826f-4f2a-bc80-8d30ed1a776d | humour | 433348177 | Scheduled 10:00 |
