@@ -14,3 +14,4 @@
 | 2026-11-27 | 10 | free-pdfs | c83f4fca-ccac-4f48-8103-629d64d1cc47 | humour | 432417511 | Scheduled 10:00 |
 | 2026-11-28 | 11 | result-email | f9832b66-9be2-497c-8cfd-63f99825b76f | humour | 432434483 | Scheduled 10:00 |
 | 2026-11-29 | 12 | tension-pneumo | d6b0c049 (flagged nsfw), 56e5fc12 (retry: unclear joke, nude baby-like patient) | NICE NG39 1.4.1 + RCEM: holds (caption reworded) | - | FAILED after 1 retry; slot to be filled by a humour swap |
+| 2026-11-30 | 13 | study-plan | e5691b9a-502b-4fec-a0a7-73c90e20e43d | humour | 432458340 | Scheduled 10:00 |
