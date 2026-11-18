@@ -30,3 +30,4 @@
 | 2026-12-13 | 26 | four-weeks-out | eea3b44b-bca1-4b5f-b543-2ce5d906f001 | humour | 432738389 | Scheduled 10:00 |
 | 2026-12-14 | 27 | explanations | 8045bd27-294f-4a75-922c-24e3ab12a4e6 | humour | 432766772 | Scheduled 10:00; tablet logo blurred |
 | 2026-12-15 | 28 | torsion | 4ab13848-5a2a-490a-922a-384ea8cfa2a1 | EAU Paediatric Urology 2025 (Doppler must not delay exploration): holds | 432800662 | Scheduled 10:00 |
+| 2026-12-16 | 29 | pomodoro | 4d497e41-a966-442b-9500-4a6b4b4365eb | humour | 432832640 | Scheduled 10:00 |
