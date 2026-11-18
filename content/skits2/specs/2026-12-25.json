@@ -1,0 +1,76 @@
+{
+ "date": "2026-12-25",
+ "n": 38,
+ "slug": "choking",
+ "title": "Choking: back blows",
+ "raw": "content/skits2/raw/2026-12-25_raw.mp4",
+ "job_id": "7685d0df-8700-493a-9640-54b1c3c2d88b",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Choking. Can't cough, can't speak."
+  },
+  {
+   "t": 2.2,
+   "text": "NPC: offers a glass of water."
+  },
+  {
+   "t": 5.4,
+   "text": "SIGMA: 5 back blows, then 5 abdominal thrusts."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "stamp",
+   "t": 3.6,
+   "text": "NOT TODAY",
+   "color": "coral"
+  },
+  {
+   "kind": "whip",
+   "t": 5.4
+  },
+  {
+   "kind": "punch",
+   "t": 7.2,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "stamp",
+   "t": 7.4,
+   "text": "CLEARED",
+   "color": "gold",
+   "y": 1350
+  }
+ ],
+ "sfx": [
+  [
+   7.1,
+   "pop",
+   1.0
+  ]
+ ],
+ "end": [
+  "Back blows,",
+  "then thrusts."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Adult choking with an ineffective cough, still conscious: 5 back blows, then 5 abdominal thrusts, and repeat. Unconscious: start CPR.\n\nSave it. You'll use this outside the exam too.\n\n#EMREE #medicalinterns #UAEdoctors #firstaid #choking #emergencymedicine",
+ "fact": {
+  "claim": "Adult choking, ineffective cough, conscious: 5 back blows then 5 abdominal thrusts; unconscious: CPR",
+  "check": "Resuscitation Council UK adult choking algorithm",
+  "verified": "RCUK Adult Choking Algorithm 2021. Checked 18 Nov 2026."
+ }
+}
