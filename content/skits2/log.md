@@ -10,3 +10,4 @@
 | 2026-12-24 | 37 | brain-tabs | 874a82e6-826f-4f2a-bc80-8d30ed1a776d | humour | 433348177 | Scheduled 10:00 |
 | 2026-12-25 | 38 | choking | 7685d0df-8700-493a-9640-54b1c3c2d88b | RCUK adult choking 2021: holds | 433366825 | Scheduled 10:00 |
 | 2026-12-26 | 39 | id-card-hunt | c28e9480-4a4f-48de-a129-618416f3fa57 | humour | 433384216 | Scheduled 10:00 |
+| 2026-12-27 | 40 | brain-control-room | ba19fb4d-9ca3-45b4-8719-a418c018d6e3 | humour | 433410958 | Scheduled 10:00 |
