@@ -1,0 +1,71 @@
+{
+ "date": "2026-11-28",
+ "n": 11,
+ "slug": "result-email",
+ "title": "Opening the result email",
+ "raw": "content/skits/raw/2026-11-28_raw.mp4",
+ "job_id": "f9832b66-9be2-497c-8cfd-63f99825b76f",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Opening the EMREE result email:"
+  },
+  {
+   "t": 4.6,
+   "text": "..."
+  },
+  {
+   "t": 6.9,
+   "text": "PASS."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "freeze",
+   "t": 4.6,
+   "dur": 1.0,
+   "text": "LOADING..."
+  },
+  {
+   "kind": "flash",
+   "t": 7.0
+  },
+  {
+   "kind": "punch",
+   "t": 7.0,
+   "amt": 0.2,
+   "dur": 0.9
+  }
+ ],
+ "sfx": [
+  [
+   1.0,
+   "tick"
+  ],
+  [
+   2.0,
+   "tick"
+  ],
+  [
+   3.0,
+   "tick"
+  ],
+  [
+   4.0,
+   "tick"
+  ],
+  [
+   7.0,
+   "cash"
+  ]
+ ],
+ "end": [
+  "Make it this one.",
+  "Start now."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "That green screen feeling is earned weeks before the email.\n\nComment PASS to claim it for your exam.\n\n#EMREE #medicalinterns #UAEdoctors #exammotivation #doctorlife",
+ "fact": null
+}
