@@ -14,3 +14,4 @@
 | 2026-12-28 | 41 | sepsis | 1f47429e-892f-4532-b4ff-22f1e2e88e0a | NICE NG253 rec 1.8.3: holds | 433435840 | Scheduled 10:00 |
 | 2026-12-29 | 42 | rank-up | fa01cb35-1868-4626-b691-c1d9dc7b85ed | 2.0 feature (rank) | 433461380 | Scheduled 10:00 |
 | 2026-12-30 | 43 | rapid-fire | 110d182e-8904-4d99-9df1-09e82eb6f340 | 2.0 feature (rapid fire) | 433483852 | Scheduled 10:00 |
+| 2026-12-31 | 44 | results-nye | 562df006-b667-4dff-8675-b929ea71fdb5 | NIHS calendar (sitting 2 result 31 Dec): holds | 433550981 | Scheduled 10:00 |
