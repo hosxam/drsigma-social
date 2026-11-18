@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-21",
+ "n": 4,
+ "slug": "group-chat",
+ "title": "Batch group chat",
+ "raw": "content/skits/raw/2026-11-21_raw.mp4",
+ "job_id": "6d6d2cc5-56e9-4666-8600-a6eca2315d4a",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Batch group chat, 2 weeks before EMREE."
+  },
+  {
+   "t": 3.0,
+   "text": "NPC: reads all 847 messages."
+  },
+  {
+   "t": 7.0,
+   "text": "SIGMA: phone face down."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "t": 6.4,
+   "amp": 12
+  },
+  {
+   "kind": "punch",
+   "t": 7.6,
+   "dur": 0.9,
+   "amt": 0.12
+  }
+ ],
+ "sfx": [
+  [
+   1.5,
+   "tick"
+  ],
+  [
+   1.8,
+   "tick"
+  ],
+  [
+   2.1,
+   "tick"
+  ],
+  [
+   6.4,
+   "glitch"
+  ],
+  [
+   7.6,
+   "hit"
+  ]
+ ],
+ "end": [
+  "Mute the group.",
+  "Not your future."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "The group chat will still be there after the exam.\n\nSend this to the friend who's typing right now.\n\n#EMREE #medicalinterns #UAEdoctors #studytips #medstudentlife",
+ "fact": null
+}
