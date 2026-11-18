@@ -1,0 +1,67 @@
+{
+ "date": "2026-11-19",
+ "n": 2,
+ "slug": "alarm",
+ "title": "5am alarm",
+ "raw": "content/skits/raw/2026-11-19_raw.mp4",
+ "job_id": "42cc7041-e93e-4147-9865-7ce750ce7e5c",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Alarm set for 5am to study."
+  },
+  {
+   "t": 2.0,
+   "text": "NPC at 5:01am:"
+  },
+  {
+   "t": 4.6,
+   "text": "SIGMA at 5:01am:"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "punch",
+   "t": 3.0,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "shake",
+   "t": 3.5,
+   "amp": 14
+  }
+ ],
+ "sfx": [
+  [
+   0.4,
+   "buzz"
+  ],
+  [
+   3.4,
+   "boom"
+  ],
+  [
+   7.5,
+   "ding"
+  ]
+ ],
+ "end": [
+  "Discipline beats motivation.",
+  "Every single morning."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Your alarm doesn't fail. You do.\n\nWhich one were you this morning? Be honest.\n\n#EMREE #medicalinterns #UAEdoctors #studymotivation #medstudentlife",
+ "fact": null
+}
