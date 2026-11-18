@@ -12,3 +12,4 @@
 | 2026-11-25 | 08 | nobody-emree | db294685-d5d8-4b28-84b0-6c2957ef75f6 | humour | 432403817 | Scheduled 10:00 |
 | 2026-11-26 | 09 | dka | d6b2ad96-4e4f-4794-a3e1-af63657753ca (retry; 1st 14835795 had a cross symbol on the bag and a mid-clip cut) | ADA/JBDS hyperglycaemic crises consensus 2024 (K+ > 3.5): holds | 432425925 | Scheduled 10:00 |
 | 2026-11-27 | 10 | free-pdfs | c83f4fca-ccac-4f48-8103-629d64d1cc47 | humour | 432417511 | Scheduled 10:00 |
+| 2026-11-28 | 11 | result-email | f9832b66-9be2-497c-8cfd-63f99825b76f | humour | 432434483 | Scheduled 10:00 |
