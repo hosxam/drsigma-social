@@ -1,0 +1,66 @@
+{
+ "date": "2026-12-29",
+ "n": 42,
+ "slug": "rank-up",
+ "title": "Rank up",
+ "raw": "content/skits2/raw/2026-12-29_raw.mp4",
+ "job_id": "fa01cb35-1868-4626-b691-c1d9dc7b85ed",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Correct answer #500."
+  },
+  {
+   "t": 1.2,
+   "text": "SIGMA:"
+  },
+  {
+   "t": 5.6,
+   "text": "NPC, still on 0 XP:"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "xp",
+   "t": 1.0,
+   "text": "+10 XP"
+  },
+  {
+   "kind": "stamp",
+   "t": 4.6,
+   "text": "RANK UP",
+   "color": "gold"
+  },
+  {
+   "kind": "flash",
+   "t": 4.4
+  },
+  {
+   "kind": "whip",
+   "t": 5.5
+  },
+  {
+   "kind": "stamp",
+   "t": 8.0,
+   "text": "0 XP",
+   "color": "coral",
+   "y": 1250
+  }
+ ],
+ "sfx": [
+  [
+   2.5,
+   "riser",
+   0.7
+  ]
+ ],
+ "end": [
+  "Rank moves on right answers.",
+  "Never on time spent."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "In DrSigma 2.0 your rank only moves on correct answers, fixed mistakes and finished lessons. Not on hours of staring.\n\nIntern today. What's your rank by exam day?\n\n7 days of everything free, no card: drsigma.net\n\n#EMREE #medicalinterns #UAEdoctors #levelup #DrSigma",
+ "fact": null
+}
