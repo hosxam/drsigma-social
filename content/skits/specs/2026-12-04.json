@@ -1,0 +1,58 @@
+{
+ "date": "2026-12-04",
+ "n": 17,
+ "slug": "flashcards",
+ "title": "Flashcard deck",
+ "raw": "content/skits/raw/2026-12-04_raw.mp4",
+ "job_id": "1ec5a41c-ab52-420d-bdbe-e5457ad3f198",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "NPC: skips flashcard reviews for 9 days."
+  },
+  {
+   "t": 3.0,
+   "text": "Due today:"
+  },
+  {
+   "t": 7.4,
+   "text": "SIGMA: 20 minutes. Every day."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "punch",
+   "t": 3.0,
+   "amt": 0.2,
+   "dur": 0.9
+  },
+  {
+   "kind": "shake",
+   "t": 6.2,
+   "amp": 22
+  }
+ ],
+ "sfx": [
+  [
+   1.5,
+   "riser"
+  ],
+  [
+   6.2,
+   "boom"
+  ],
+  [
+   7.6,
+   "ding"
+  ]
+ ],
+ "end": [
+  "Small daily reps",
+  "beat big panic sessions."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Spaced repetition only works if you show up.\n\nHow many cards are due for you right now? Be brave.\n\n#EMREE #anki #medicalinterns #UAEdoctors #studytips",
+ "fact": null
+}
