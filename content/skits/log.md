@@ -18,3 +18,4 @@
 | 2026-12-01 | 14 | drug-of-choice | 731e817f-9ad4-4350-9647-a5f8d30e4443 | NICE NG217 s7: holds (caption made specific: IV lorazepam / buccal midazolam; 2nd line after 2 benzo doses) | 432470716 | Scheduled 10:00 |
 | 2026-12-02 | 15 | eid-break | a7808073-0f02-4b56-8021-7ada06f99747 | humour (beats reworded: no 'long weekend' / '4 days off' claim) | 432481564 | Scheduled 10:00 |
 | 2026-12-03 | 16 | meningitis | 6dd477de-444a-4e8e-97c9-3250aa84813a | NICE NG240 (2024): holds | 432498359 | Scheduled 10:00 |
+| 2026-12-04 | 17 | flashcards | 1ec5a41c-ab52-420d-bdbe-e5457ad3f198 | humour | 432513684 | Scheduled 10:00 |
