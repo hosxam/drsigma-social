@@ -1,0 +1,73 @@
+{
+ "date": "2026-12-05",
+ "n": 18,
+ "slug": "first-option",
+ "title": "Picks option A every time",
+ "raw": "content/skits/raw/2026-12-05_raw.mp4",
+ "job_id": "674fa184-1370-4ea4-9690-a9eecfb95d13",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "NPC in the exam:"
+  },
+  {
+   "t": 2.0,
+   "text": "Reads 1 word. Picks A."
+  },
+  {
+   "t": 6.6,
+   "text": "Finished in 4 minutes."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "t": 3.6,
+   "amp": 14
+  },
+  {
+   "kind": "shake",
+   "t": 4.6,
+   "amp": 14
+  },
+  {
+   "kind": "punch",
+   "t": 6.8,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "freeze",
+   "t": 8.4,
+   "dur": 0.9,
+   "text": "RESULT: RESIT"
+  }
+ ],
+ "sfx": [
+  [
+   3.6,
+   "hit"
+  ],
+  [
+   4.6,
+   "hit"
+  ],
+  [
+   5.6,
+   "hit"
+  ],
+  [
+   6.8,
+   "pop"
+  ]
+ ],
+ "end": [
+  "Read the last line",
+  "of the stem first."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "The question is in the last line. The clues are in the first.\n\nTag the friend who finishes exams in half the time.\n\n#EMREE #examtips #medicalinterns #UAEdoctors #medstudentlife",
+ "fact": null
+}
