@@ -1,0 +1,64 @@
+{
+ "date": "2026-12-26",
+ "n": 39,
+ "slug": "id-card-hunt",
+ "title": "Where's my ID",
+ "raw": "content/skits2/raw/2026-12-26_raw.mp4",
+ "job_id": "c28e9480-4a4f-48de-a129-618416f3fa57",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "EMREE tomorrow."
+  },
+  {
+   "t": 1.4,
+   "text": "NPC's morning:"
+  },
+  {
+   "t": 6.4,
+   "text": "SIGMA packed last night."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "speed",
+   "t": 1.4,
+   "dur": 3
+  },
+  {
+   "kind": "punch",
+   "t": 5.3,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "stamp",
+   "t": 5.5,
+   "text": "FOUND IT",
+   "color": "gold"
+  },
+  {
+   "kind": "whip",
+   "t": 6.4
+  }
+ ],
+ "sfx": [],
+ "end": [
+  "Pack tonight.",
+  "Panic never."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Sitting the EMREE tomorrow? Pack tonight: ID, confirmation, water, the route. Then sleep.\n\nTag the friend whose keys live in the fridge.\n\n#EMREE #medicalinterns #UAEdoctors #examday #EMREE2026",
+ "fact": null
+}
