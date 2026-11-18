@@ -1,0 +1,70 @@
+{
+ "date": "2026-12-31",
+ "n": 44,
+ "slug": "results-nye",
+ "title": "Results night",
+ "raw": "content/skits2/raw/2026-12-31_raw.mp4",
+ "job_id": "562df006-b667-4dff-8675-b929ea71fdb5",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "27 Dec sitting: results due today."
+  },
+  {
+   "t": 2.6,
+   "text": "NPC when it's a PASS:"
+  },
+  {
+   "t": 6.6,
+   "text": "Whatever it says:"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "t": 2.6
+  },
+  {
+   "kind": "stamp",
+   "t": 3.0,
+   "text": "PASS",
+   "color": "gold"
+  },
+  {
+   "kind": "punch",
+   "t": 6.6,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "shake",
+   "t": 2.6,
+   "amp": 14
+  }
+ ],
+ "sfx": [
+  [
+   2.0,
+   "riser",
+   0.6
+  ],
+  [
+   2.6,
+   "boom",
+   0.8
+  ]
+ ],
+ "end": [
+  "Next year",
+  "starts tomorrow."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Results for the 27 December sitting are due today, 31 December, on the NIHS calendar. Whatever yours says, next year starts tomorrow.\n\nComment PASS to claim yours for 2027.\n\n#EMREE #medicalinterns #UAEdoctors #newyear #EMREE2026",
+ "fact": {
+  "claim": "Sitting 2 (27 Dec) result date 31 Dec 2026",
+  "check": "NIHS EMREE exam calendar",
+  "verified": "nihs.uaeu.ac.ae EMREE calendar. Checked 18 Nov 2026."
+ }
+}
