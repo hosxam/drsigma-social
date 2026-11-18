@@ -1,0 +1,68 @@
+{
+ "date": "2026-11-26",
+ "n": 9,
+ "slug": "dka",
+ "title": "DKA with K+ 3.1",
+ "raw": "content/skits/raw/2026-11-26_raw.mp4",
+ "job_id": "d6b2ad96-4e4f-4794-a3e1-af63657753ca",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "DKA. K+ 3.1."
+  },
+  {
+   "t": 2.0,
+   "text": "NPC: insulin, straight away."
+  },
+  {
+   "t": 5.6,
+   "text": "SIGMA: fluids + K+ first. Insulin when K+ is 3.5+."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "freeze",
+   "t": 4.6,
+   "dur": 0.9,
+   "text": "K+ JUST DROPPED"
+  },
+  {
+   "kind": "punch",
+   "t": 8.4,
+   "dur": 0.9,
+   "amt": 0.12
+  }
+ ],
+ "sfx": [
+  [
+   4.6,
+   "buzz"
+  ],
+  [
+   8.6,
+   "ding"
+  ]
+ ],
+ "end": [
+  "Check the K+.",
+  "Then the insulin."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "DKA with K+ below 3.5: start fluids, replace potassium, and hold insulin until K+ is at least 3.5. Insulin pushes K+ into cells.\n\nSave it for nights.\n\n#EMREE #DKA #medicalinterns #UAEdoctors #internlife",
+ "fact": {
+  "claim": "DKA: if K+ < 3.5 mmol/L, give fluids and potassium and delay insulin until K+ >= 3.5",
+  "check": "ADA/EASD/JBDS hyperglycemic crises consensus report, Diabetes Care 2024",
+  "verified": "ADA/EASD/JBDS/AACE/DTS hyperglycaemic crises consensus, Diabetes Care 2024 (insulin postponed until K+ > 3.5 mmol/L). Checked 18 Nov 2026."
+ }
+}
