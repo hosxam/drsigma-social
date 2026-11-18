@@ -1,0 +1,69 @@
+{
+ "date": "2026-12-27",
+ "n": 40,
+ "slug": "brain-control-room",
+ "title": "Your brain at question 87",
+ "raw": "content/skits2/raw/2026-12-27_raw.mp4",
+ "job_id": "ba19fb4d-9ca3-45b4-8719-a418c018d6e3",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Question 87 of 120."
+  },
+  {
+   "t": 2.0,
+   "text": "Inside your brain:"
+  },
+  {
+   "t": 7.8,
+   "text": "Hour-3 brain after 10 timed mocks:"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "glitch",
+   "t": 2.0,
+   "dur": 0.6
+  },
+  {
+   "kind": "shake",
+   "t": 4.5,
+   "amp": 18
+  },
+  {
+   "kind": "flash",
+   "t": 8.0
+  },
+  {
+   "kind": "stamp",
+   "t": 5.0,
+   "text": "BRAIN.EXE FROZE",
+   "color": "coral"
+  },
+  {
+   "kind": "ecg",
+   "t": 7.9
+  }
+ ],
+ "sfx": [
+  [
+   0.5,
+   "buzz",
+   0.6
+  ],
+  [
+   1.5,
+   "buzz",
+   0.6
+  ]
+ ],
+ "end": [
+  "Train hour three",
+  "before exam day."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Most people know enough. Hour three is where the marks leak.\n\nGood luck to everyone sitting today.\n\n#EMREE #medicalinterns #UAEdoctors #examday #brain",
+ "fact": null
+}
