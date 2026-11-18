@@ -1,0 +1,62 @@
+{
+ "date": "2026-12-11",
+ "n": 24,
+ "slug": "skips-public-health",
+ "title": "Skips Public Health",
+ "raw": "content/skits/raw/2026-12-11_raw.mp4",
+ "job_id": "648bf0db-a74d-4d0b-b79c-285286c9e74b",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "NPC studying for the EMREE:"
+  },
+  {
+   "t": 3.6,
+   "text": "\"Public Health? I'll skip it.\""
+  },
+  {
+   "t": 6.0,
+   "text": "Public Health:"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "punch",
+   "t": 6.5,
+   "amt": 0.2,
+   "dur": 0.9
+  },
+  {
+   "kind": "shake",
+   "t": 8.6,
+   "amp": 14
+  }
+ ],
+ "sfx": [
+  [
+   0.6,
+   "pop"
+  ],
+  [
+   1.2,
+   "pop"
+  ],
+  [
+   1.8,
+   "pop"
+  ],
+  [
+   8.6,
+   "boom"
+  ]
+ ],
+ "end": [
+  "No specialty is optional.",
+  "Not even that one."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "The specialty you skip is the one waiting for you on exam day.\n\nWhich one are you avoiding? Be honest.\n\n#EMREE #publichealth #medicalinterns #UAEdoctors #EMREEprep",
+ "fact": null
+}
