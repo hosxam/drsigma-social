@@ -1,0 +1,76 @@
+{
+ "date": "2026-12-15",
+ "n": 28,
+ "slug": "torsion",
+ "title": "Testicular torsion",
+ "raw": "content/skits/raw/2026-12-15_raw.mp4",
+ "job_id": "4ab13848-5a2a-490a-922a-384ea8cfa2a1",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Sudden severe testicular pain."
+  },
+  {
+   "t": 2.0,
+   "text": "NPC: books an ultrasound."
+  },
+  {
+   "t": 5.0,
+   "text": "SIGMA: urgent surgical exploration."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "freeze",
+   "t": 4.0,
+   "dur": 0.9,
+   "text": "TIME = TESTIS"
+  },
+  {
+   "kind": "punch",
+   "t": 8.6,
+   "dur": 0.9,
+   "amt": 0.12
+  }
+ ],
+ "sfx": [
+  [
+   3.0,
+   "tick"
+  ],
+  [
+   3.4,
+   "tick"
+  ],
+  [
+   8.6,
+   "whoosh"
+  ],
+  [
+   9.2,
+   "ding"
+  ]
+ ],
+ "end": [
+  "Suspected torsion:",
+  "theatre, not a scan queue."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Suspected testicular torsion: urgent surgical exploration. Don't let imaging delay theatre.\n\nSave this.\n\n#EMREE #urology #emergencymedicine #medicalinterns #UAEdoctors",
+ "fact": {
+  "claim": "Suspected testicular torsion: urgent surgical exploration; imaging should not delay surgery",
+  "check": "EAU Paediatric Urology guideline (latest) or NICE CKS scrotal pain",
+  "verified": "EAU Paediatric Urology guideline 2025: urgent exploration; Doppler should not delay intervention. Checked 18 Nov 2026."
+ }
+}
