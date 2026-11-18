@@ -1,0 +1,62 @@
+{
+ "date": "2026-12-30",
+ "n": 43,
+ "slug": "rapid-fire",
+ "title": "Rapid fire",
+ "raw": "content/skits2/raw/2026-12-30_raw.mp4",
+ "job_id": "110d182e-8904-4d99-9df1-09e82eb6f340",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Rapid fire: one-line rules."
+  },
+  {
+   "t": 1.5,
+   "text": "SIGMA, day 30:"
+  },
+  {
+   "t": 5.2,
+   "text": "NPC, day 1:"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "speed",
+   "t": 1.5,
+   "dur": 3
+  },
+  {
+   "kind": "combo",
+   "t": 3.0,
+   "n": 20
+  },
+  {
+   "kind": "shake",
+   "t": 5.6,
+   "amp": 20
+  },
+  {
+   "kind": "stamp",
+   "t": 8.0,
+   "text": "COMBO BROKEN",
+   "color": "coral",
+   "y": 1200
+  }
+ ],
+ "sfx": [
+  [
+   8.0,
+   "boom",
+   0.7
+  ]
+ ],
+ "end": [
+  "20 new a day.",
+  "Reviews on schedule."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "1,500 one-line rules, 20 new a day, and every one comes back before your exam date. That's Rapid fire in DrSigma 2.0.\n\nGrade yourself honestly. That's the whole trick.\n\n#EMREE #medicalinterns #UAEdoctors #flashcards #DrSigma",
+ "fact": null
+}
