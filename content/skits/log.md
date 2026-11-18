@@ -16,3 +16,4 @@
 | 2026-11-29 | 12 | tension-pneumo | d6b0c049 (flagged nsfw), 56e5fc12 (retry: unclear joke, nude baby-like patient) | NICE NG39 1.4.1 + RCEM: holds (caption reworded) | - | FAILED after 1 retry; slot to be filled by a humour swap |
 | 2026-11-30 | 13 | study-plan | e5691b9a-502b-4fec-a0a7-73c90e20e43d | humour | 432458340 | Scheduled 10:00 |
 | 2026-12-01 | 14 | drug-of-choice | 731e817f-9ad4-4350-9647-a5f8d30e4443 | NICE NG217 s7: holds (caption made specific: IV lorazepam / buccal midazolam; 2nd line after 2 benzo doses) | 432470716 | Scheduled 10:00 |
+| 2026-12-02 | 15 | eid-break | a7808073-0f02-4b56-8021-7ada06f99747 | humour (beats reworded: no 'long weekend' / '4 days off' claim) | 432481564 | Scheduled 10:00 |
