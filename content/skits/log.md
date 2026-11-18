@@ -26,3 +26,4 @@
 | 2026-12-09 | 22 | ward-round | f20bc10e-1df5-4cc9-b900-258355839fcb | humour | 432635178 | Scheduled 10:00 |
 | 2026-12-10 | 23 | gi-bleed | 059a0208-8322-4cc4-8963-58cd87c57050 | NICE CG141 / QS38: holds | 432660811 | Scheduled 10:00 |
 | 2026-12-11 | 24 | skips-public-health | 648bf0db-a74d-4d0b-b79c-285286c9e74b | humour (caption: removed '10 times' number claim) | 432685242 | Scheduled 10:00 |
+| 2026-12-12 | 25 | coffee | 934fb46b-e317-4303-9217-0aeebdd80664 | humour | 432709655 | Scheduled 10:00 |
