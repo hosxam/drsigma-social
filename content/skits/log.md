@@ -20,3 +20,4 @@
 | 2026-12-03 | 16 | meningitis | 6dd477de-444a-4e8e-97c9-3250aa84813a | NICE NG240 (2024): holds | 432498359 | Scheduled 10:00 |
 | 2026-12-04 | 17 | flashcards | 1ec5a41c-ab52-420d-bdbe-e5457ad3f198 | humour | 432513684 | Scheduled 10:00 |
 | 2026-12-05 | 18 | first-option | 674fa184-1370-4ea4-9690-a9eecfb95d13 | humour (freeze text 'SEE YOU IN MAY' changed to 'RESIT': no exam date claim) | 432530942 | Scheduled 10:00 |
+| 2026-12-06 | 19 | hypoglycaemia | 08ac7f4c-6ce2-4d79-8c02-5d0a9254a150 | JBDS-IP hypoglycaemia (glucagon 1 mg IM): holds | 432553922 | Scheduled 10:00 |
