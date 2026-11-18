@@ -23,3 +23,4 @@
 | 2026-12-06 | 19 | hypoglycaemia | 08ac7f4c-6ce2-4d79-8c02-5d0a9254a150 | JBDS-IP hypoglycaemia (glucagon 1 mg IM): holds | 432553922 | Scheduled 10:00 |
 | 2026-12-07 | 20 | night-before | 402a5423-c6e9-4523-ab55-a422c12ac00c | humour | 432578451 | Scheduled 10:00 |
 | 2026-12-08 | 21 | bank-proof | b0ba0409-0949-496b-bdec-1b418b838521 | promo (product facts per CLAUDE.md) | 432604867 | Scheduled 10:00 |
+| 2026-12-09 | 22 | ward-round | f20bc10e-1df5-4cc9-b900-258355839fcb | humour | 432635178 | Scheduled 10:00 |
