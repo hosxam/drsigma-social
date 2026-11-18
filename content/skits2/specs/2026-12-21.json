@@ -1,0 +1,71 @@
+{
+ "date": "2026-12-21",
+ "n": 34,
+ "slug": "vf-shock",
+ "title": "Shockable rhythm",
+ "raw": "content/skits2/raw/2026-12-21_raw.mp4",
+ "job_id": "4213679c-dbdd-4be1-8991-a613b94d036a",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Cardiac arrest. Shockable rhythm."
+  },
+  {
+   "t": 1.5,
+   "text": "NPC: hunts for a vein first."
+  },
+  {
+   "t": 5.8,
+   "text": "SIGMA: shock now. CPR straight after."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "glitch",
+   "t": 3.0,
+   "dur": 0.5
+  },
+  {
+   "kind": "ecg",
+   "t": 4.6
+  },
+  {
+   "kind": "stamp",
+   "t": 5.0,
+   "text": "SHOCK DELIVERED",
+   "color": "cyan"
+  },
+  {
+   "kind": "flash",
+   "t": 4.6
+  },
+  {
+   "kind": "shake",
+   "t": 4.6,
+   "amp": 18
+  }
+ ],
+ "sfx": [],
+ "end": [
+  "Shock first.",
+  "Drugs after the 3rd shock."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "VF or pulseless VT: shock as soon as possible, then straight back to CPR for 2 minutes. First adrenaline goes in after the 3rd shock.\n\nSave this for your EMREE week.\n\n#EMREE #medicalinterns #UAEdoctors #ALS #cardiacarrest #emergencymedicine",
+ "fact": {
+  "claim": "VF/pVT: shock, immediately resume CPR 2 min; 1st adrenaline after 3 shocks",
+  "check": "Resuscitation Council UK Adult ALS algorithm 2025",
+  "verified": "RCUK Adult ALS algorithm 2025: 'Immediately resume CPR for 2 min'; 'Give 1st adrenaline after 3 shocks'. Checked 18 Nov 2026."
+ }
+}
