@@ -1,0 +1,71 @@
+{
+ "date": "2026-12-18",
+ "n": 31,
+ "slug": "exam-hall-walk",
+ "title": "Walking into the exam",
+ "raw": "content/skits/raw/2026-12-18_raw.mp4",
+ "job_id": "7f9902dd-89f8-4baf-b1f8-0dbb97c75310",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Exam day."
+  },
+  {
+   "t": 1.5,
+   "text": "NPC: last-second cramming."
+  },
+  {
+   "t": 5.6,
+   "text": "SIGMA: did the work weeks ago."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "t": 5.0,
+   "amp": 10
+  },
+  {
+   "kind": "punch",
+   "t": 7.0,
+   "amt": 0.18,
+   "dur": 1.4
+  },
+  {
+   "kind": "flash",
+   "t": 7.0
+  }
+ ],
+ "sfx": [
+  [
+   5.0,
+   "boing"
+  ],
+  [
+   7.0,
+   "boom"
+  ],
+  [
+   8.0,
+   "riser"
+  ]
+ ],
+ "end": [
+  "Walk in like you",
+  "already know."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Confidence on exam day is just preparation you did earlier.\n\nComment SIGMA if that's going to be you.\n\n#EMREE #examday #medicalinterns #UAEdoctors #DrSigma",
+ "fact": null
+}
