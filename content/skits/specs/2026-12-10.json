@@ -1,0 +1,72 @@
+{
+ "date": "2026-12-10",
+ "n": 23,
+ "slug": "gi-bleed",
+ "title": "Haematemesis, BP 85/50",
+ "raw": "content/skits/raw/2026-12-10_raw.mp4",
+ "job_id": "059a0208-8322-4cc4-8963-58cd87c57050",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Haematemesis. BP 85/50."
+  },
+  {
+   "t": 2.0,
+   "text": "NPC: straight to endoscopy."
+  },
+  {
+   "t": 5.0,
+   "text": "SIGMA: resuscitate first. Then scope."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "freeze",
+   "t": 4.0,
+   "dur": 0.9,
+   "text": "UNSTABLE PATIENT"
+  },
+  {
+   "kind": "punch",
+   "t": 8.6,
+   "dur": 0.9,
+   "amt": 0.12
+  }
+ ],
+ "sfx": [
+  [
+   8.3,
+   "whoosh"
+  ],
+  [
+   4.0,
+   "buzz"
+  ],
+  [
+   8.8,
+   "ding"
+  ]
+ ],
+ "end": [
+  "Resuscitate,",
+  "then endoscopy."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Upper GI bleed with shock: resuscitate first (large-bore access, fluids, blood), then endoscopy immediately after resuscitation.\n\nSave this.\n\n#EMREE #GIbleed #emergencymedicine #medicalinterns #UAEdoctors",
+ "fact": {
+  "claim": "Severe acute upper GI bleed with shock: resuscitate first, endoscopy immediately after resuscitation",
+  "check": "NICE CG141 acute upper GI bleeding (latest update)",
+  "verified": "NICE CG141 / QS38 statement 2 (endoscopy immediately after resuscitation if unstable). Checked 18 Nov 2026."
+ }
+}
