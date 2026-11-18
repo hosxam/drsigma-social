@@ -21,3 +21,4 @@
 | 2026-12-04 | 17 | flashcards | 1ec5a41c-ab52-420d-bdbe-e5457ad3f198 | humour | 432513684 | Scheduled 10:00 |
 | 2026-12-05 | 18 | first-option | 674fa184-1370-4ea4-9690-a9eecfb95d13 | humour (freeze text 'SEE YOU IN MAY' changed to 'RESIT': no exam date claim) | 432530942 | Scheduled 10:00 |
 | 2026-12-06 | 19 | hypoglycaemia | 08ac7f4c-6ce2-4d79-8c02-5d0a9254a150 | JBDS-IP hypoglycaemia (glucagon 1 mg IM): holds | 432553922 | Scheduled 10:00 |
+| 2026-12-07 | 20 | night-before | 402a5423-c6e9-4523-ab55-a422c12ac00c | humour | 432578451 | Scheduled 10:00 |
