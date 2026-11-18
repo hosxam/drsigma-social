@@ -1,0 +1,56 @@
+{
+ "date": "2026-12-20",
+ "n": 33,
+ "slug": "streak-flame",
+ "title": "The streak flame",
+ "raw": "content/skits2/raw/2026-12-20_raw.mp4",
+ "job_id": "b1035878-b36a-4bcf-8793-6f0612cab155",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Day 23 of the streak."
+  },
+  {
+   "t": 1.5,
+   "text": "NPC: \"just skip one day.\""
+  },
+  {
+   "t": 7.0,
+   "text": "SIGMA: 10 questions. Streak alive."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "stamp",
+   "t": 4.2,
+   "text": "STREAK LOST",
+   "color": "coral"
+  },
+  {
+   "kind": "xp",
+   "t": 8.0,
+   "text": "+10 XP"
+  },
+  {
+   "kind": "glitch",
+   "t": 3.9,
+   "dur": 0.4
+  },
+  {
+   "kind": "punch",
+   "t": 8.8,
+   "dur": 0.9,
+   "amt": 0.12
+  }
+ ],
+ "sfx": [],
+ "end": [
+  "Ten a day.",
+  "Then you can sleep."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "The streak doesn't care how tired you are. Ten questions and it lives.\n\nDrSigma 2.0 counts your streak, your XP and your rank. Free account, 7 days of everything, no card: drsigma.net\n\nWhat's your current streak? Be honest.\n\n#EMREE #medicalinterns #UAEdoctors #studystreak #DrSigma",
+ "fact": null
+}
