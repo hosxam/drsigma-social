@@ -581,30 +581,28 @@
   {
    "n": 12,
    "date": "2026-11-29",
-   "slug": "tension-pneumo",
-   "title": "Tension pneumothorax",
-   "prompt": "Split screen, cartoon trauma bay. A clay patient with one side of the chest puffed up like a balloon gasps for air. Left: NPC pushes the patient on a trolley toward a big X-ray machine that slowly beeps 'loading', the patient's chest balloon keeps growing. Right: SIGMA quickly decompresses the chest with a needle at the side of the chest, a comic hiss of air escapes and the patient sighs in relief.",
+   "slug": "post-nights",
+   "title": "Studying after a night shift",
+   "prompt": "Split screen, left and right halves, one continuous shot, two cozy cartoon apartments in the morning, sunlight through the window, both characters still in plain blue scrubs. Left: NPC sits at a desk with an open textbook, his eyelids droop, his head slowly sinks and he falls asleep face-first into a bowl of noodles with a splash. Right: SIGMA yawns, goes to bed under a blanket, then the light changes to afternoon, he wakes up fresh, sits at his desk and works through a plain tablet with a confident nod.",
    "labels": true,
    "beats": [
     [
      0,
-     "Trauma. BP 78/40. Trachea deviated."
+     "Post night shift: \"I'll study now.\""
     ],
     [
      3.3,
-     "NPC: sends for a chest X-ray."
+     "NPC: 4 minutes later."
     ],
     [
      6.6,
-     "SIGMA: decompress now. Clinical diagnosis."
+     "SIGMA: sleeps first. Studies fresh."
     ]
    ],
    "fx": [
     {
-     "kind": "freeze",
-     "t": 5.0,
-     "dur": 0.9,
-     "text": "NO TIME FOR X-RAY"
+     "kind": "punch",
+     "t": 4.6
     },
     {
      "kind": "punch",
@@ -613,27 +611,27 @@
    ],
    "sfx": [
     [
-     4.4,
+     1.0,
      "tick"
     ],
     [
-     8.0,
-     "whoosh"
+     4.6,
+     "boing"
     ],
     [
-     8.6,
+     8.0,
      "ding"
     ]
    ],
    "end": [
-    "Tension pneumo is clinical.",
-    "Don't wait for the film."
+    "Rest is part of the plan.",
+    "Not a reward after it."
    ],
-   "caption": "Tension pneumothorax with shock or severe breathing compromise is a clinical diagnosis. Decompress first, image after.\n\nTag the friend who'd still send for the X-ray.\n\n#EMREE #trauma #emergencymedicine #medicalinterns #UAEdoctors",
-   "fact": {
-    "claim": "Tension pneumothorax is a clinical diagnosis; immediate decompression without waiting for chest X-ray",
-    "check": "ATLS 10th edition (American College of Surgeons)",
-    "verified": "NICE NG39 rec 1.4.1 (decompress before imaging if circulatory instability or serious breathing compromise); RCEM Learning thoracic trauma. Checked 18 Nov 2026."
+   "caption": "Studying on zero sleep feels productive. It rarely is.\n\nTag the friend who studies straight after nights.\n\n#EMREE #internlife #medicalinterns #UAEdoctors #nightshift",
+   "fact": null,
+   "swapped_from": {
+    "slug": "tension-pneumo",
+    "reason": "clip failed twice (content flag, then unclear/nude-looking patient); fact itself verified (NICE NG39)"
    }
   },
   {
