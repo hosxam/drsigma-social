@@ -1,0 +1,73 @@
+{
+ "date": "2026-11-23",
+ "n": 6,
+ "slug": "hyperkalaemia",
+ "title": "K+ 6.9 with ECG changes",
+ "raw": "content/skits/raw/2026-11-23_raw.mp4",
+ "job_id": "12cebd64-3ff3-42f0-b93f-81800805d6c0",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "K+ 6.9. Peaked T waves."
+  },
+  {
+   "t": 2.4,
+   "text": "NPC: banana. Waits for the repeat."
+  },
+  {
+   "t": 5.0,
+   "text": "SIGMA: IV calcium first. Protect the heart."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "t": 3.4,
+   "amp": 14
+  },
+  {
+   "kind": "freeze",
+   "t": 4.0,
+   "dur": 0.9,
+   "text": "ARREST INCOMING"
+  },
+  {
+   "kind": "punch",
+   "t": 8.0,
+   "dur": 0.9,
+   "amt": 0.12
+  }
+ ],
+ "sfx": [
+  [
+   3.4,
+   "glitch"
+  ],
+  [
+   8.0,
+   "ding"
+  ]
+ ],
+ "end": [
+  "Calcium protects.",
+  "Insulin-glucose shifts. Then remove it."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Hyperkalaemia with ECG changes: IV calcium first to stabilise the myocardium. It doesn't lower K+. Insulin-glucose does that next.\n\nSave this.\n\n#EMREE #hyperkalemia #emergencymedicine #medicalinterns #UAEdoctors",
+ "fact": {
+  "claim": "Hyperkalaemia with ECG changes: give IV calcium first to stabilise the myocardium; it does not lower K+; then insulin-glucose",
+  "check": "UK Kidney Association hyperkalaemia guideline 2023 or Resuscitation Council UK",
+  "verified": "UK Kidney Association hyperkalaemia guideline 2023 (16.2a IV calcium with ECG changes; 16.3.1 insulin-glucose). Checked 18 Nov 2026."
+ }
+}
