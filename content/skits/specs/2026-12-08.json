@@ -1,0 +1,58 @@
+{
+ "date": "2026-12-08",
+ "n": 21,
+ "slug": "bank-proof",
+ "title": "Question bank promo",
+ "raw": "content/skits/raw/2026-12-08_raw.mp4",
+ "job_id": "b0ba0409-0949-496b-bdec-1b418b838521",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Random MCQs vs real exam prep."
+  },
+  {
+   "t": 2.0,
+   "text": "NPC: random questions from random places."
+  },
+  {
+   "t": 5.0,
+   "text": "SIGMA: filters by exam year. Timed mocks."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "punch",
+   "t": 7.6,
+   "dur": 0.9,
+   "amt": 0.12
+  }
+ ],
+ "sfx": [
+  [
+   4.0,
+   "slide"
+  ],
+  [
+   7.6,
+   "cash"
+  ]
+ ],
+ "end": [
+  "4,900+ EMREE questions.",
+  "AED 400. 90 days."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "DrSigma: 4,900+ EMREE questions you can filter by exam year, timed mocks in the blueprint mix, every option explained, UAE guidance first.\nAED 400 for 90 days. One payment, no subscription.\n\n10 free pages: drsigma.net/try\n\n#EMREE #EMREEprep #UAEdoctors #medicalinterns #DrSigma",
+ "fact": null
+}
