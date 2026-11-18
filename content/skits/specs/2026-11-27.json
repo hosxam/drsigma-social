@@ -1,0 +1,62 @@
+{
+ "date": "2026-11-27",
+ "n": 10,
+ "slug": "free-pdfs",
+ "title": "47 free PDFs",
+ "raw": "content/skits/raw/2026-11-27_raw.mp4",
+ "job_id": "c83f4fca-ccac-4f48-8103-629d64d1cc47",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Me downloading my 47th free PDF:"
+  },
+  {
+   "t": 4.0,
+   "text": "Pages read:"
+  },
+  {
+   "t": 6.6,
+   "text": "0."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "t": 6.4,
+   "amp": 24
+  },
+  {
+   "kind": "punch",
+   "t": 6.8,
+   "amt": 0.2,
+   "dur": 0.9
+  }
+ ],
+ "sfx": [
+  [
+   1.5,
+   "slide"
+  ],
+  [
+   3.0,
+   "slide"
+  ],
+  [
+   6.4,
+   "boom"
+  ],
+  [
+   6.8,
+   "pop"
+  ]
+ ],
+ "end": [
+  "Collecting isn't studying.",
+  "One source. Done properly."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "The hard drive is ready for the EMREE. Are you?\n\nHow many unread PDFs do you have? Drop the number.\n\n#EMREE #medicalinterns #UAEdoctors #studytips #medstudentlife",
+ "fact": null
+}
