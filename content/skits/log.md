@@ -24,3 +24,4 @@
 | 2026-12-07 | 20 | night-before | 402a5423-c6e9-4523-ab55-a422c12ac00c | humour | 432578451 | Scheduled 10:00 |
 | 2026-12-08 | 21 | bank-proof | b0ba0409-0949-496b-bdec-1b418b838521 | promo (product facts per CLAUDE.md) | 432604867 | Scheduled 10:00 |
 | 2026-12-09 | 22 | ward-round | f20bc10e-1df5-4cc9-b900-258355839fcb | humour | 432635178 | Scheduled 10:00 |
+| 2026-12-10 | 23 | gi-bleed | 059a0208-8322-4cc4-8963-58cd87c57050 | NICE CG141 / QS38: holds | 432660811 | Scheduled 10:00 |
