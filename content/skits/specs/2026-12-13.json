@@ -1,0 +1,66 @@
+{
+ "date": "2026-12-13",
+ "n": 26,
+ "slug": "four-weeks-out",
+ "title": "Me vs my study plan, 4 weeks out",
+ "raw": "content/skits/raw/2026-12-13_raw.mp4",
+ "job_id": "eea3b44b-bca1-4b5f-b543-2ce5d906f001",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "4 weeks before EMREE: \"plenty of time.\""
+  },
+  {
+   "t": 3.5,
+   "text": "Time:"
+  },
+  {
+   "t": 8.4,
+   "text": "1 week left."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "t": 5.0,
+   "amp": 14
+  },
+  {
+   "kind": "punch",
+   "t": 8.4,
+   "amt": 0.2,
+   "dur": 0.9
+  },
+  {
+   "kind": "flash",
+   "t": 8.4
+  }
+ ],
+ "sfx": [
+  [
+   3.5,
+   "whoosh"
+  ],
+  [
+   4.2,
+   "whoosh"
+  ],
+  [
+   5.0,
+   "whoosh"
+  ],
+  [
+   8.4,
+   "boom"
+  ]
+ ],
+ "end": [
+  "Plenty of time",
+  "is how it starts."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "4 weeks becomes 1 week faster than you think.\n\nHow many weeks do you have left? Comment the number.\n\n#EMREE #medicalinterns #UAEdoctors #studymotivation #EMREEprep",
+ "fact": null
+}
