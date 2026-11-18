@@ -1,0 +1,71 @@
+{
+ "date": "2026-12-14",
+ "n": 27,
+ "slug": "explanations",
+ "title": "Reads the explanations",
+ "raw": "content/skits/raw/2026-12-14_raw.mp4",
+ "job_id": "8045bd27-294f-4a75-922c-24e3ab12a4e6",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Getting a question wrong:"
+  },
+  {
+   "t": 1.2,
+   "text": "NPC: next question. Same mistake."
+  },
+  {
+   "t": 5.0,
+   "text": "SIGMA: reads why every option is wrong."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "t": 4.4,
+   "amp": 14
+  },
+  {
+   "kind": "punch",
+   "t": 9.0,
+   "dur": 0.9,
+   "amt": 0.12
+  }
+ ],
+ "sfx": [
+  [
+   0.8,
+   "buzz"
+  ],
+  [
+   4.4,
+   "buzz"
+  ],
+  [
+   6.6,
+   "pop"
+  ],
+  [
+   9.0,
+   "ding"
+  ]
+ ],
+ "end": [
+  "The explanation",
+  "is where you learn."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "A wrong answer you understand beats a right answer you guessed.\n\nDo you read the explanations? Yes or no in the comments.\n\n#EMREE #EMREEprep #medicalinterns #UAEdoctors #studytips",
+ "fact": null
+}
