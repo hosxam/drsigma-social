@@ -19,3 +19,4 @@
 | 2026-12-02 | 15 | eid-break | a7808073-0f02-4b56-8021-7ada06f99747 | humour (beats reworded: no 'long weekend' / '4 days off' claim) | 432481564 | Scheduled 10:00 |
 | 2026-12-03 | 16 | meningitis | 6dd477de-444a-4e8e-97c9-3250aa84813a | NICE NG240 (2024): holds | 432498359 | Scheduled 10:00 |
 | 2026-12-04 | 17 | flashcards | 1ec5a41c-ab52-420d-bdbe-e5457ad3f198 | humour | 432513684 | Scheduled 10:00 |
+| 2026-12-05 | 18 | first-option | 674fa184-1370-4ea4-9690-a9eecfb95d13 | humour (freeze text 'SEE YOU IN MAY' changed to 'RESIT': no exam date claim) | 432530942 | Scheduled 10:00 |
