@@ -1,0 +1,1443 @@
+{
+ "_readme": "Batch 2: 30 crazier skits 19 Dec 2026 - 17 Jan 2027, DrSigma 2.0 edit style. Facts verified 18 Nov 2026 (see fact.verified). Formats from vidIQ outliers 18 Nov: AI brainrot escalation, boss-fight/game UI, POV, bullet time, inner-brain control room.",
+ "style": "Stylized 3D clay animation, Pixar-like lighting, vertical 9:16, bouncy cartoon physics, exaggerated comedic timing. Characters: NPC = a grey blocky cube-headed clay character with blank dot eyes, a tiny flat mouth and a floating white exclamation mark above his head; SIGMA = a calm, confident clay character in a navy hoodie (hood up) and black sunglasses. Match the reference images exactly. No on-screen text, no words, no logos, no music.",
+ "skits": [
+  {
+   "slug": "boss-fight",
+   "title": "EMREE final boss",
+   "prompt": "Video-game boss battle in a glowing clay arena. A giant angry clay monster made of stacked exam papers towers over the arena and roars. Left side: NPC charges with a yellow highlighter like a sword, pokes the monster once, a tiny spark, and the monster flicks him across the arena with one finger. Then SIGMA walks in calmly, pulls out a fan of glowing question cards and throws them like ninja stars in slow motion, each hit makes the monster shrink, until it bursts into confetti. Epic camera angles, fast action.",
+   "beats": [
+    [
+     0,
+     "EMREE: the final boss."
+    ],
+    [
+     3,
+     "NPC attacks with: a highlighter."
+    ],
+    [
+     6.5,
+     "SIGMA attacks with: 4,900+ questions."
+    ]
+   ],
+   "end": [
+    "Bosses aren't beaten by reading.",
+    "They're beaten by reps."
+   ],
+   "caption": "Highlighters do 1 damage. Questions do critical hits.\n\nWhat's your weapon of choice? Wrong answers only.\n\n#EMREE #medicalinterns #UAEdoctors #bossfight #studytok",
+   "fact": null,
+   "labels": false,
+   "fx": [
+    {
+     "kind": "hp",
+     "t0": 0.3,
+     "t1": 9.5,
+     "label": "EMREE"
+    },
+    {
+     "kind": "stamp",
+     "t": 4,
+     "text": "MISS",
+     "color": "coral"
+    },
+    {
+     "kind": "combo",
+     "t": 7,
+     "n": 5
+    },
+    {
+     "kind": "stamp",
+     "t": 8.6,
+     "text": "CRITICAL HIT",
+     "color": "gold"
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 32,
+   "date": "2026-12-19"
+  },
+  {
+   "slug": "streak-flame",
+   "title": "The streak flame",
+   "prompt": "Single scene, cozy desk at night. A small cute clay flame floats above NPC's head. NPC yawns and closes his book, and the flame shrinks, flickers and blows out with a little puff of smoke; NPC panics and chases the smoke around the room with a lighter that won't spark. In the background SIGMA answers a few questions on a plain tablet and the little flame above his head grows into a big roaring bonfire that lights up the room.",
+   "beats": [
+    [
+     0,
+     "Day 23 of the streak."
+    ],
+    [
+     3,
+     "NPC: \"just skip one day.\""
+    ],
+    [
+     6.5,
+     "SIGMA: 10 questions. Streak alive."
+    ]
+   ],
+   "end": [
+    "Ten a day.",
+    "Then you can sleep."
+   ],
+   "caption": "The streak doesn't care how tired you are. Ten questions and it lives.\n\nDrSigma 2.0 counts your streak, your XP and your rank. Free account, 7 days of everything, no card: drsigma.net\n\nWhat's your current streak? Be honest.\n\n#EMREE #medicalinterns #UAEdoctors #studystreak #DrSigma",
+   "fact": null,
+   "labels": false,
+   "fx": [
+    {
+     "kind": "stamp",
+     "t": 4.5,
+     "text": "STREAK LOST",
+     "color": "coral"
+    },
+    {
+     "kind": "xp",
+     "t": 8,
+     "text": "+10 XP"
+    }
+   ],
+   "feature": "streak",
+   "refs": "both",
+   "n": 33,
+   "date": "2026-12-20"
+  },
+  {
+   "slug": "vf-shock",
+   "title": "Shockable rhythm",
+   "prompt": "Split screen, cartoon resus room. A clay patient lies on a bed, a small cute clay heart character floats above his chest shaking and wobbling chaotically. Left: NPC calmly searches the patient's arm with a magnifying glass for a vein while the wobbly heart gets dizzier. Right: SIGMA rolls in a big friendly boxy machine and presses one big glowing button, a cartoon lightning bolt zaps into the floating heart, it freezes, then starts beating in a steady happy rhythm, and SIGMA immediately starts pressing on the chest in rhythm. Family-friendly, no blood.",
+   "beats": [
+    [
+     0,
+     "Shockable rhythm on the monitor."
+    ],
+    [
+     3,
+     "NPC: hunts for a vein first."
+    ],
+    [
+     6.5,
+     "SIGMA: shock now. CPR straight after."
+    ]
+   ],
+   "end": [
+    "Shock first.",
+    "Drugs after the 3rd shock."
+   ],
+   "caption": "VF or pulseless VT: shock as soon as possible, then straight back to CPR for 2 minutes. First adrenaline goes in after the 3rd shock.\n\nSave this for your EMREE week.\n\n#EMREE #medicalinterns #UAEdoctors #ALS #cardiacarrest #emergencymedicine",
+   "fact": {
+    "claim": "VF/pVT: shock, immediately resume CPR 2 min; 1st adrenaline after 3 shocks",
+    "check": "Resuscitation Council UK Adult ALS algorithm 2025",
+    "verified": "RCUK Adult ALS algorithm 2025: 'Immediately resume CPR for 2 min'; 'Give 1st adrenaline after 3 shocks'. Checked 18 Nov 2026."
+   },
+   "labels": true,
+   "fx": [
+    {
+     "kind": "glitch",
+     "t": 3.5,
+     "dur": 0.5
+    },
+    {
+     "kind": "ecg",
+     "t": 6.8
+    },
+    {
+     "kind": "stamp",
+     "t": 7.4,
+     "text": "SHOCK DELIVERED",
+     "color": "cyan"
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 34,
+   "date": "2026-12-21"
+  },
+  {
+   "slug": "power-up",
+   "title": "Anime power-up",
+   "prompt": "Single scene, a dramatic anime-style power-up. SIGMA stands in a study room, glowing cyan energy swirls around him, his hoodie flaps in a wind from nowhere, the floor cracks, books float up around him in a circle and the camera spins around him as the glow explodes into a beam of light. Then NPC beside him tries the exact same pose, squeezes hard, and only a tiny puff of grey smoke comes out and he sneezes. Speed lines, epic lighting, then comedic deflation.",
+   "beats": [
+    [
+     0,
+     "SIGMA after 1,000 questions:"
+    ],
+    [
+     5.5,
+     "NPC after watching 1 video:"
+    ],
+    [
+     8.5,
+     ""
+    ]
+   ],
+   "end": [
+    "Power levels rise",
+    "one question at a time."
+   ],
+   "caption": "There's no transformation scene. Just questions, every day, until it shows.\n\nTag the friend who's still charging up.\n\n#EMREE #medicalinterns #UAEdoctors #anime #studymotivation",
+   "fact": null,
+   "labels": false,
+   "fx": [
+    {
+     "kind": "speed",
+     "t": 0.5,
+     "dur": 4
+    },
+    {
+     "kind": "flash",
+     "t": 4.5
+    },
+    {
+     "kind": "shake",
+     "t": 4.5,
+     "amp": 24
+    },
+    {
+     "kind": "stamp",
+     "t": 8.6,
+     "text": "POWER LEVEL: 2",
+     "color": "coral"
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 35,
+   "date": "2026-12-22"
+  },
+  {
+   "slug": "deadline-23dec",
+   "title": "The door closes today",
+   "prompt": "Single scene, a huge cartoon exam-centre door with a giant ticking clock above it. NPC is asleep in a hammock right in front of the door, snoring, while the clock hands spin faster and faster. The giant door slowly swings shut with a heavy echoing slam and a big padlock snaps onto it. NPC wakes up and bangs on the door. Through a small round window in the door, SIGMA waves calmly from inside.",
+   "beats": [
+    [
+     0,
+     "27 Dec EMREE: enrolment closes today."
+    ],
+    [
+     4,
+     "NPC: \"I'll do it tomorrow.\""
+    ],
+    [
+     7.5,
+     "Tomorrow:"
+    ]
+   ],
+   "end": [
+    "Enrol today.",
+    "Thank yourself on the 27th."
+   ],
+   "caption": "Sitting the EMREE on 27 December? Enrolment closes today, 23 December, on the NIHS calendar. Check the portal now, not tonight.\n\nNot ready for the 27th? Use the free calculator on drsigma.net to see which sitting your hours can reach.\n\nSend this to the friend who always says tomorrow.\n\n#EMREE #medicalinterns #UAEdoctors #EMREE2026 #deadline",
+   "fact": {
+    "claim": "Sitting 2 (27 Dec 2026) enrolment window 4-23 Dec 2026",
+    "check": "NIHS EMREE exam calendar",
+    "verified": "nihs.uaeu.ac.ae EMREE calendar: enrolment 4 Dec-23 Dec 2026, exam 27 Dec 2026. Checked 18 Nov 2026."
+   },
+   "labels": false,
+   "fx": [
+    {
+     "kind": "stamp",
+     "t": 7.0,
+     "text": "LOCKED OUT",
+     "color": "coral"
+    },
+    {
+     "kind": "shake",
+     "t": 7.0,
+     "amp": 22
+    }
+   ],
+   "feature": "calculator",
+   "refs": "both",
+   "n": 36,
+   "date": "2026-12-23"
+  },
+  {
+   "slug": "brain-tabs",
+   "title": "300 tabs",
+   "prompt": "Single scene. The top of NPC's blocky head flips open like a laptop lid and hundreds of glowing browser-window cards fly out like a swarm of bats, spinning around the room, some on fire, overheating his head until steam pours out. SIGMA sits next to him, the top of his head opens too, and only one single calm glowing card floats out, he reads it and closes his head with a click.",
+   "beats": [
+    [
+     0,
+     "Studying for the EMREE:"
+    ],
+    [
+     2.5,
+     "NPC's brain: 300 open tabs."
+    ],
+    [
+     6.5,
+     "SIGMA's brain: one."
+    ]
+   ],
+   "end": [
+    "One topic.",
+    "Done properly."
+   ],
+   "caption": "Your brain has the same tab limit as your laptop.\n\nHow many tabs are open right now? Screenshot not required.\n\n#EMREE #medicalinterns #UAEdoctors #studytips #focus",
+   "fact": null,
+   "labels": false,
+   "fx": [
+    {
+     "kind": "glitch",
+     "t": 2.5,
+     "dur": 0.7
+    },
+    {
+     "kind": "shake",
+     "t": 4.5,
+     "amp": 16
+    },
+    {
+     "kind": "punch",
+     "t": 7.5
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 37,
+   "date": "2026-12-24"
+  },
+  {
+   "slug": "choking",
+   "title": "Choking: back blows",
+   "prompt": "Split screen, a cartoon restaurant. A clay diner clutches his throat, can't cough, a big green grape stuck as a cartoon bubble in his throat. Left: NPC calmly hands him a tall glass of water and pats his head. Right: SIGMA stands behind the diner, leans him forward and gives firm pats between the shoulder blades, then a hug-style squeeze from behind, the grape pops out and flies across the room into a bowl, the diner breathes and gives a thumbs up. Family-friendly.",
+   "beats": [
+    [
+     0,
+     "Choking. Can't cough, can't speak."
+    ],
+    [
+     3,
+     "NPC: offers a glass of water."
+    ],
+    [
+     6.5,
+     "SIGMA: 5 back blows, then 5 abdominal thrusts."
+    ]
+   ],
+   "end": [
+    "Back blows,",
+    "then thrusts."
+   ],
+   "caption": "Adult choking with an ineffective cough, still conscious: 5 back blows, then 5 abdominal thrusts, and repeat. Unconscious: start CPR.\n\nSave it. You'll use this outside the exam too.\n\n#EMREE #medicalinterns #UAEdoctors #firstaid #choking #emergencymedicine",
+   "fact": {
+    "claim": "Adult choking, ineffective cough, conscious: 5 back blows then 5 abdominal thrusts; unconscious: CPR",
+    "check": "Resuscitation Council UK adult choking algorithm",
+    "verified": "RCUK Adult Choking Algorithm 2021. Checked 18 Nov 2026."
+   },
+   "labels": true,
+   "fx": [
+    {
+     "kind": "stamp",
+     "t": 4.4,
+     "text": "NOT TODAY",
+     "color": "coral"
+    },
+    {
+     "kind": "whip",
+     "t": 6.5
+    },
+    {
+     "kind": "punch",
+     "t": 8.2
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 38,
+   "date": "2026-12-25"
+  },
+  {
+   "slug": "id-card-hunt",
+   "title": "Where's my ID",
+   "prompt": "Split screen, exam morning. Left: NPC tears his apartment apart in fast motion looking for something, cushions flying, drawers flung out, he finally opens the fridge and finds a small blank plastic card next to the milk and screams. Right: SIGMA calmly picks up a neatly packed bag from beside the front door, a small blank card already clipped to it, sips water and walks out.",
+   "beats": [
+    [
+     0,
+     "EMREE tomorrow."
+    ],
+    [
+     2.5,
+     "NPC's morning:"
+    ],
+    [
+     6.5,
+     "SIGMA packed last night."
+    ]
+   ],
+   "end": [
+    "Pack tonight.",
+    "Panic never."
+   ],
+   "caption": "Sitting the EMREE tomorrow? Pack tonight: ID, confirmation, water, the route. Then sleep.\n\nTag the friend whose keys live in the fridge.\n\n#EMREE #medicalinterns #UAEdoctors #examday #EMREE2026",
+   "fact": null,
+   "labels": true,
+   "fx": [
+    {
+     "kind": "speed",
+     "t": 2.5,
+     "dur": 3
+    },
+    {
+     "kind": "punch",
+     "t": 5.4
+    },
+    {
+     "kind": "stamp",
+     "t": 5.6,
+     "text": "FOUND IT",
+     "color": "gold"
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 39,
+   "date": "2026-12-26"
+  },
+  {
+   "slug": "brain-control-room",
+   "title": "Your brain at question 87",
+   "prompt": "Inside a giant clay head: a chaotic cartoon control room full of tiny grey clay workers. Red alarms flash, one worker runs in circles holding a fire extinguisher, another pulls random levers, a third falls asleep on the big red button, papers fly everywhere, a screen in the centre shows only static. Then one calm tiny worker in a navy hoodie and sunglasses walks in, presses one green button, and all the lights turn calm and green.",
+   "beats": [
+    [
+     0,
+     "Question 87 of 120."
+    ],
+    [
+     2.5,
+     "Inside your brain:"
+    ],
+    [
+     7.0,
+     "Hour-3 brain after 10 timed mocks:"
+    ]
+   ],
+   "end": [
+    "Train hour three",
+    "before exam day."
+   ],
+   "caption": "Most people know enough. Hour three is where the marks leak.\n\nGood luck to everyone sitting today.\n\n#EMREE #medicalinterns #UAEdoctors #examday #brain",
+   "fact": null,
+   "labels": false,
+   "fx": [
+    {
+     "kind": "glitch",
+     "t": 2.6,
+     "dur": 0.6
+    },
+    {
+     "kind": "shake",
+     "t": 4,
+     "amp": 18
+    },
+    {
+     "kind": "flash",
+     "t": 7.2
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 40,
+   "date": "2026-12-27"
+  },
+  {
+   "slug": "sepsis",
+   "title": "Sepsis: the 1-hour clock",
+   "prompt": "Split screen, a cartoon emergency room. A clay patient with a glowing red thermometer shivers under a blanket, a big sand hourglass floats above the bed. Left: NPC stacks paper lab forms into a tower and waits, tapping his foot, while the hourglass sand runs out and the patient turns redder. Right: SIGMA flips the hourglass, quickly hangs a drip bag and connects it, the thermometer cools to blue and the patient relaxes. Family-friendly.",
+   "beats": [
+    [
+     0,
+     "High-risk sepsis. NEWS2 of 7."
+    ],
+    [
+     3,
+     "NPC: waits for every result first."
+    ],
+    [
+     6.5,
+     "SIGMA: IV antibiotics within the hour."
+    ]
+   ],
+   "end": [
+    "The clock starts",
+    "at the score."
+   ],
+   "caption": "Suspected sepsis at high risk: broad-spectrum IV antibiotics within 1 hour of calculating the NEWS2 score.\n\nSave this for your EMREE week.\n\n#EMREE #medicalinterns #UAEdoctors #sepsis #emergencymedicine",
+   "fact": {
+    "claim": "High-risk suspected sepsis: IV broad-spectrum antibiotics within 1 hour of NEWS2 calculation",
+    "check": "NICE NG253 (2024)",
+    "verified": "NICE NG253 rec 1.8.3. Checked 18 Nov 2026."
+   },
+   "labels": true,
+   "fx": [
+    {
+     "kind": "stamp",
+     "t": 5,
+     "text": "00:59:59",
+     "color": "coral"
+    },
+    {
+     "kind": "punch",
+     "t": 8
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 41,
+   "date": "2026-12-28"
+  },
+  {
+   "slug": "rank-up",
+   "title": "Rank up",
+   "prompt": "Video-game level-up scene. SIGMA answers a question on a plain tablet, and a golden beam of light shoots down on him from the sky, golden particles swirl, he floats a few centimetres off the floor and lands in a hero pose with a glowing badge on his chest. NPC next to him slams random buttons on a tablet, a sad little grey puff appears and a tiny sad trombone shaped like a cloud floats above him.",
+   "beats": [
+    [
+     0,
+     "Correct answer #500."
+    ],
+    [
+     3,
+     "SIGMA:"
+    ],
+    [
+     7,
+     "NPC, still on 0 XP:"
+    ]
+   ],
+   "end": [
+    "Rank moves on right answers.",
+    "Never on time spent."
+   ],
+   "caption": "In DrSigma 2.0 your rank only moves on correct answers, fixed mistakes and finished lessons. Not on hours of staring.\n\nIntern today. What's your rank by exam day?\n\n7 days of everything free, no card: drsigma.net\n\n#EMREE #medicalinterns #UAEdoctors #levelup #DrSigma",
+   "fact": null,
+   "labels": false,
+   "fx": [
+    {
+     "kind": "xp",
+     "t": 2.5,
+     "text": "+10 XP"
+    },
+    {
+     "kind": "stamp",
+     "t": 4.4,
+     "text": "RANK UP",
+     "color": "gold"
+    },
+    {
+     "kind": "flash",
+     "t": 4.2
+    }
+   ],
+   "feature": "rank",
+   "refs": "both",
+   "n": 42,
+   "date": "2026-12-29"
+  },
+  {
+   "slug": "rapid-fire",
+   "title": "Rapid fire",
+   "prompt": "Single scene. SIGMA sits at a table flipping flash cards at superhuman speed like a casino card shark, cards blur and fan in the air in perfect arcs and land in two neat stacks. NPC next to him tries to copy, the cards explode out of his hands in every direction, stick to his face and his head, and he falls off the chair.",
+   "beats": [
+    [
+     0,
+     "Rapid fire: one-line rules."
+    ],
+    [
+     2.5,
+     "SIGMA, day 30:"
+    ],
+    [
+     6,
+     "NPC, day 1:"
+    ]
+   ],
+   "end": [
+    "20 new a day.",
+    "Reviews on schedule."
+   ],
+   "caption": "1,500 one-line rules, 20 new a day, and every one comes back before your exam date. That's Rapid fire in DrSigma 2.0.\n\nGrade yourself honestly. That's the whole trick.\n\n#EMREE #medicalinterns #UAEdoctors #flashcards #DrSigma",
+   "fact": null,
+   "labels": false,
+   "fx": [
+    {
+     "kind": "speed",
+     "t": 2.5,
+     "dur": 3
+    },
+    {
+     "kind": "combo",
+     "t": 4,
+     "n": 20
+    },
+    {
+     "kind": "shake",
+     "t": 7,
+     "amp": 20
+    }
+   ],
+   "feature": "rapidfire",
+   "refs": "both",
+   "n": 43,
+   "date": "2026-12-30"
+  },
+  {
+   "slug": "results-nye",
+   "title": "Results night",
+   "prompt": "Night rooftop with a city skyline. NPC and SIGMA stand side by side watching fireworks. The fireworks burst into huge glowing green tick shapes and checkmarks in the sky, confetti rains down, NPC cries happy tears that spray out like fountains and hugs SIGMA, SIGMA pats his back calmly.",
+   "beats": [
+    [
+     0,
+     "27 Dec sitting: results due today."
+    ],
+    [
+     4,
+     "NPC when it's a PASS:"
+    ],
+    [
+     7.5,
+     "Whatever it says:"
+    ]
+   ],
+   "end": [
+    "Next year",
+    "starts tomorrow."
+   ],
+   "caption": "Results for the 27 December sitting are due today, 31 December, on the NIHS calendar. Whatever yours says, next year starts tomorrow.\n\nComment PASS to claim yours for 2027.\n\n#EMREE #medicalinterns #UAEdoctors #newyear #EMREE2026",
+   "fact": {
+    "claim": "Sitting 2 (27 Dec) result date 31 Dec 2026",
+    "check": "NIHS EMREE exam calendar",
+    "verified": "nihs.uaeu.ac.ae EMREE calendar. Checked 18 Nov 2026."
+   },
+   "labels": false,
+   "fx": [
+    {
+     "kind": "flash",
+     "t": 4
+    },
+    {
+     "kind": "stamp",
+     "t": 4.4,
+     "text": "PASS",
+     "color": "gold"
+    },
+    {
+     "kind": "punch",
+     "t": 7.6
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 44,
+   "date": "2026-12-31"
+  },
+  {
+   "slug": "new-year-mirror",
+   "title": "New year, new me",
+   "prompt": "Single scene. A glowing magic portal mirror in a bedroom with sparkles. NPC dramatically runs and leaps through the mirror, there is a huge flash of light, and he comes out the other side exactly the same, same face, same snack in his hand, and looks around confused. SIGMA sits at a desk in the background and simply opens a plain tablet without looking up.",
+   "beats": [
+    [
+     0,
+     "1 January:"
+    ],
+    [
+     2.5,
+     "NPC: \"New year, new me.\""
+    ],
+    [
+     6.5,
+     "Also NPC:"
+    ]
+   ],
+   "end": [
+    "Nothing changes at midnight.",
+    "Things change at 10 a day."
+   ],
+   "caption": "January doesn't make you study. A small daily habit does.\n\nWhat's your EMREE resolution? Make it a number.\n\n#EMREE #medicalinterns #UAEdoctors #newyearnewme #studymotivation",
+   "fact": null,
+   "labels": false,
+   "fx": [
+    {
+     "kind": "flash",
+     "t": 4.5
+    },
+    {
+     "kind": "whip",
+     "t": 4.4
+    },
+    {
+     "kind": "stamp",
+     "t": 6.8,
+     "text": "PATCH NOTES: NONE",
+     "color": "coral"
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 45,
+   "date": "2027-01-01"
+  },
+  {
+   "slug": "stroke-clock",
+   "title": "Stroke: scan now",
+   "prompt": "Split screen, cartoon emergency room. A clay patient on a trolley has one droopy side of his face and one arm hanging limp. A big glowing stopwatch floats above. Left: NPC sits beside the trolley staring into a crystal ball, waiting, while the stopwatch spins. Right: SIGMA immediately wheels the trolley fast into a big friendly donut-shaped scanner, the scanner glows, and SIGMA hangs a drip with a confident nod. Family-friendly.",
+   "beats": [
+    [
+     0,
+     "Sudden face droop. Arm weakness."
+    ],
+    [
+     3,
+     "NPC: \"let's wait and see.\""
+    ],
+    [
+     6.5,
+     "SIGMA: CT now. Lysis window is 4.5 h."
+    ]
+   ],
+   "end": [
+    "Time is brain.",
+    "Scan first, decide fast."
+   ],
+   "caption": "Suspected ischaemic stroke: immediate non-contrast CT when thrombolysis may be indicated. Alteplase within 4.5 hours of onset, once haemorrhage is excluded.\n\nSave this.\n\n#EMREE #medicalinterns #UAEdoctors #stroke #emergencymedicine",
+   "fact": {
+    "claim": "Immediate non-enhanced CT if thrombolysis indicated; alteplase within 4.5 h of onset once ICH excluded",
+    "check": "NICE NG128",
+    "verified": "NICE NG128 recommendations (imaging, alteplase within 4.5 h, ICH excluded). Checked 18 Nov 2026."
+   },
+   "labels": true,
+   "fx": [
+    {
+     "kind": "stamp",
+     "t": 4.6,
+     "text": "TIME = BRAIN",
+     "color": "coral"
+    },
+    {
+     "kind": "whip",
+     "t": 6.5
+    },
+    {
+     "kind": "punch",
+     "t": 8.4
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 46,
+   "date": "2027-01-02"
+  },
+  {
+   "slug": "sunday-mock",
+   "title": "Sunday mock",
+   "prompt": "Single scene, a huge bright clay exam hall at 9 in the morning, dozens of identical small clay students at desks all start at the same moment. A giant clock strikes nine, papers flip over in a perfect wave across the hall. NPC sprints in late through the door with a croissant in his mouth and slides across the floor into the last empty desk. SIGMA is already seated in the front row, pen ready.",
+   "beats": [
+    [
+     0,
+     "Every Sunday. 9:00 AM."
+    ],
+    [
+     2.5,
+     "Same paper. Same clock. Everyone."
+    ],
+    [
+     6,
+     "NPC, every Sunday:"
+    ]
+   ],
+   "end": [
+    "Practise the real thing.",
+    "Weekly."
+   ],
+   "caption": "One live 120-question mock every Sunday at 9:00. Same paper, same clock, results for everyone at once. That's the Sunday mock in DrSigma 2.0.\n\nSee you there. Arrive before the croissant.\n\n#EMREE #medicalinterns #UAEdoctors #mockexam #DrSigma",
+   "fact": null,
+   "labels": false,
+   "fx": [
+    {
+     "kind": "ecg",
+     "t": 2.4
+    },
+    {
+     "kind": "speed",
+     "t": 6,
+     "dur": 1.6
+    },
+    {
+     "kind": "stamp",
+     "t": 7.8,
+     "text": "SAFE",
+     "color": "gold"
+    }
+   ],
+   "feature": "sundaymock",
+   "refs": "both",
+   "n": 47,
+   "date": "2027-01-03"
+  },
+  {
+   "slug": "study-squad",
+   "title": "Study squad",
+   "prompt": "Single scene, a bright cafe. Eight small clay study friends around a table each with a plain tablet. A big floating scoreboard of glowing bars rises as they answer, and they high five in a wave around the table and cheer. NPC sits alone at the next table, his phone floods with chaotic notification bubbles that bury him. SIGMA is the one leading the cheering table, calmly raising a small trophy.",
+   "beats": [
+    [
+     0,
+     "Studying alone:"
+    ],
+    [
+     2.5,
+     "Studying with your squad:"
+    ],
+    [
+     7,
+     "Today's winner:"
+    ]
+   ],
+   "end": [
+    "Find your eight.",
+    "Win the day."
+   ],
+   "caption": "Study with up to 8 friends. Everyone sees how far the others got today, and a daily challenge decides who takes it. Study groups are live in DrSigma 2.0.\n\nTag the 7 people you'd study with.\n\n#EMREE #medicalinterns #UAEdoctors #studygroup #DrSigma",
+   "fact": null,
+   "labels": false,
+   "fx": [
+    {
+     "kind": "combo",
+     "t": 4,
+     "n": 8
+    },
+    {
+     "kind": "stamp",
+     "t": 7.2,
+     "text": "SQUAD WIN",
+     "color": "gold"
+    }
+   ],
+   "feature": "group",
+   "refs": "both",
+   "n": 48,
+   "date": "2027-01-04"
+  },
+  {
+   "slug": "bullet-time",
+   "title": "Dodging distractors",
+   "prompt": "Single scene, an exam hall in dramatic bullet-time slow motion. Dozens of glowing wrong-answer cards fly through the air like arrows. SIGMA leans back impossibly far in slow motion, cards whizzing past in arcs with motion trails, and calmly catches the single golden card between two fingers. Next to him NPC gets hit by every single card, they stick all over him until he looks like a paper porcupine.",
+   "beats": [
+    [
+     0,
+     "EMREE distractors:"
+    ],
+    [
+     2.5,
+     "SIGMA:"
+    ],
+    [
+     6.5,
+     "NPC:"
+    ]
+   ],
+   "end": [
+    "Distractors look right.",
+    "That's their job."
+   ],
+   "caption": "Every wrong option is built to look right to someone who half-knows the topic. Read why each one is wrong, not just why the answer is right.\n\nWhich distractor got you this week? Comment the topic.\n\n#EMREE #medicalinterns #UAEdoctors #examtips #studytok",
+   "fact": null,
+   "labels": false,
+   "fx": [
+    {
+     "kind": "speed",
+     "t": 2.5,
+     "dur": 3.5
+    },
+    {
+     "kind": "stamp",
+     "t": 3.8,
+     "text": "DODGED",
+     "color": "cyan"
+    },
+    {
+     "kind": "shake",
+     "t": 7.2,
+     "amp": 20
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 49,
+   "date": "2027-01-05"
+  },
+  {
+   "slug": "deadline-6jan",
+   "title": "The lift doors",
+   "prompt": "Single scene, a shiny cartoon elevator with doors slowly closing. NPC sprints toward it down a long corridor in dramatic slow motion, arm outstretched, face stretched, a long dramatic 'nooo' pose. The doors close just in front of his face and he flattens against them like a pancake. Through the shrinking gap we saw SIGMA inside, calmly giving a small wave.",
+   "beats": [
+    [
+     0,
+     "10 Jan sitting: enrolment closes today."
+    ],
+    [
+     3,
+     "NPC, at 11:58 PM:"
+    ],
+    [
+     7.5,
+     ""
+    ]
+   ],
+   "end": [
+    "Enrol first.",
+    "Panic never."
+   ],
+   "caption": "Want the 10 January EMREE? Enrolment closes today, 6 January, on the NIHS calendar. Sittings on 24 Jan, 7 Feb and 21 Feb open for enrolment on 11 January.\n\nSend this to the friend who runs for lifts.\n\n#EMREE #medicalinterns #UAEdoctors #EMREE2027 #deadline",
+   "fact": {
+    "claim": "Sitting 3 (10 Jan 2027) enrolment closes 6 Jan; sittings 4-6 enrol from 11 Jan",
+    "check": "NIHS EMREE exam calendar",
+    "verified": "nihs.uaeu.ac.ae EMREE calendar. Checked 18 Nov 2026."
+   },
+   "labels": false,
+   "fx": [
+    {
+     "kind": "speed",
+     "t": 3,
+     "dur": 3
+    },
+    {
+     "kind": "shake",
+     "t": 7,
+     "amp": 24
+    },
+    {
+     "kind": "stamp",
+     "t": 7.2,
+     "text": "DOORS CLOSED",
+     "color": "coral"
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 50,
+   "date": "2027-01-06"
+  },
+  {
+   "slug": "ectopic",
+   "title": "Pregnancy test first",
+   "prompt": "Split screen, a friendly cartoon clinic. A young adult clay woman in a long modest dress holds her lower tummy and winces on an examination couch. Left: NPC confidently hands her a giant bottle of antacid and gives a thumbs up. Right: SIGMA calmly hands her a small plain white test strip, a red alert light on the wall starts flashing, and SIGMA picks up a phone with urgency. Family-friendly.",
+   "beats": [
+    [
+     0,
+     "Woman, 26. Lower abdominal pain."
+    ],
+    [
+     3,
+     "NPC: \"gastritis, take an antacid.\""
+    ],
+    [
+     6.5,
+     "SIGMA: pregnancy test first."
+    ]
+   ],
+   "end": [
+    "Reproductive age + pain:",
+    "think pregnancy."
+   ],
+   "caption": "Any woman of reproductive age with abdominal pain: think pregnancy, and offer a pregnancy test even when symptoms are non-specific. Missing an ectopic is the mistake you don't get back.\n\nSave this.\n\n#EMREE #medicalinterns #UAEdoctors #ectopic #obgyn #emergencymedicine",
+   "fact": {
+    "claim": "Offer pregnancy test to women of reproductive age even with non-specific symptoms",
+    "check": "NICE NG126",
+    "verified": "NICE NG126 rec 1.3.5. Checked 18 Nov 2026."
+   },
+   "labels": true,
+   "fx": [
+    {
+     "kind": "stamp",
+     "t": 4.6,
+     "text": "MISSED ECTOPIC",
+     "color": "coral"
+    },
+    {
+     "kind": "punch",
+     "t": 7.6
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 51,
+   "date": "2027-01-07"
+  },
+  {
+   "slug": "hours-calculator",
+   "title": "Can I make the sitting",
+   "prompt": "Split screen. Left: NPC sits on the floor counting on his fingers and toes, then grabs a wooden abacus that spins out of control, beads explode everywhere, numbers float in a confused cloud above his head. Right: SIGMA taps a plain tablet once and a glowing path of stepping stones lights up across the floor toward a bright doorway, he walks along it calmly.",
+   "beats": [
+    [
+     0,
+     "\"Can I be ready by the next sitting?\""
+    ],
+    [
+     3,
+     "NPC's maths:"
+    ],
+    [
+     6.5,
+     "SIGMA: 30 seconds on the calculator."
+    ]
+   ],
+   "end": [
+    "Know your sitting.",
+    "Then walk the path."
+   ],
+   "caption": "Pick a sitting, type your real hours, mark your weak specialties. The free study-time calculator tells you which EMREE sitting you can actually be ready for, and what each day needs.\n\nFree, no account: drsigma.net\n\n#EMREE #medicalinterns #UAEdoctors #studyplan #DrSigma",
+   "fact": null,
+   "labels": true,
+   "fx": [
+    {
+     "kind": "glitch",
+     "t": 4,
+     "dur": 0.6
+    },
+    {
+     "kind": "ecg",
+     "t": 6.6
+    },
+    {
+     "kind": "punch",
+     "t": 8
+    }
+   ],
+   "feature": "calculator",
+   "refs": "both",
+   "n": 52,
+   "date": "2027-01-08"
+  },
+  {
+   "slug": "pillow-fight",
+   "title": "Sleep the night before",
+   "prompt": "Split screen at night. Left: NPC in pyjamas has a full boxing match with his pillow, throwing punches, the pillow hits back, feathers explode, a clock spins wildly behind him and the window turns to sunrise. Right: SIGMA lies in bed under a blanket, a tiny peaceful cloud with stars floats above him, he sleeps smiling.",
+   "beats": [
+    [
+     0,
+     "10 Jan EMREE tomorrow."
+    ],
+    [
+     3,
+     "NPC at 2 AM:"
+    ],
+    [
+     6.5,
+     "SIGMA at 10 PM:"
+    ]
+   ],
+   "end": [
+    "The last night is for sleep.",
+    "Not for chapter 14."
+   ],
+   "caption": "Sitting tomorrow? Close the book. Sleep is part of the plan.\n\nGood luck to everyone on the 10th.\n\n#EMREE #medicalinterns #UAEdoctors #examnight #sleep",
+   "fact": null,
+   "labels": true,
+   "fx": [
+    {
+     "kind": "shake",
+     "t": 4,
+     "amp": 18
+    },
+    {
+     "kind": "stamp",
+     "t": 5,
+     "text": "ROUND 12",
+     "color": "coral"
+    },
+    {
+     "kind": "flash",
+     "t": 6.5
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 53,
+   "date": "2027-01-09"
+  },
+  {
+   "slug": "soul-leaves",
+   "title": "Question 1",
+   "prompt": "Single scene, exam hall. NPC turns over his exam paper, reads the first line, and a translucent glowing ghost version of himself slowly floats up out of his body, waves goodbye and drifts out of the window, leaving his grey clay body sitting frozen with a blank face. SIGMA at the next desk reads the same paper, shrugs, and starts writing calmly.",
+   "beats": [
+    [
+     0,
+     "EMREE day. Question 1:"
+    ],
+    [
+     2.5,
+     "NPC:"
+    ],
+    [
+     7,
+     "SIGMA: skips it, comes back later."
+    ]
+   ],
+   "end": [
+    "Skip the weird one.",
+    "Come back with time."
+   ],
+   "caption": "Question 1 is always the strange one. Flag it, move on, bank the easy marks, come back.\n\nGood luck to everyone sitting today.\n\n#EMREE #medicalinterns #UAEdoctors #examday #EMREE2027",
+   "fact": null,
+   "labels": false,
+   "fx": [
+    {
+     "kind": "glitch",
+     "t": 2.5,
+     "dur": 0.6
+    },
+    {
+     "kind": "stamp",
+     "t": 5,
+     "text": "SOUL.EXE LEFT",
+     "color": "coral"
+    },
+    {
+     "kind": "punch",
+     "t": 7.6
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 54,
+   "date": "2027-01-10"
+  },
+  {
+   "slug": "stampede",
+   "title": "Enrolment opens",
+   "prompt": "Single scene, giant gates of a cartoon exam centre burst open and a huge stampede of tiny clay students charges through like a wave in a dust cloud. NPC stands right in the middle, gets trampled flat, and is left spinning on the ground with footprints on his face. In the background SIGMA walks out of a small side door holding a small blank confirmation card, already done.",
+   "beats": [
+    [
+     0,
+     "Enrolment opens for 24 Jan, 7 Feb, 21 Feb."
+    ],
+    [
+     3,
+     "Everyone at once:"
+    ],
+    [
+     7,
+     "SIGMA, enrolled at 9:01:"
+    ]
+   ],
+   "end": [
+    "Pick your sitting.",
+    "Enrol early."
+   ],
+   "caption": "Enrolment opens today, 11 January, for the 24 Jan, 7 Feb and 21 Feb EMREE sittings (NIHS calendar). The 24 Jan window closes on the 20th.\n\nNot sure which one? The free calculator on drsigma.net tells you which sitting your hours can reach.\n\n#EMREE #medicalinterns #UAEdoctors #EMREE2027",
+   "fact": {
+    "claim": "Sittings 4-6 (24 Jan, 7 Feb, 21 Feb 2027) enrol from 11 Jan; sitting 4 window closes 20 Jan",
+    "check": "NIHS EMREE exam calendar",
+    "verified": "nihs.uaeu.ac.ae EMREE calendar. Checked 18 Nov 2026."
+   },
+   "labels": false,
+   "fx": [
+    {
+     "kind": "shake",
+     "t": 3,
+     "amp": 24
+    },
+    {
+     "kind": "stamp",
+     "t": 5,
+     "text": "TRAMPLED",
+     "color": "coral"
+    },
+    {
+     "kind": "punch",
+     "t": 7.4
+    }
+   ],
+   "feature": "calculator",
+   "refs": "both",
+   "n": 55,
+   "date": "2027-01-11"
+  },
+  {
+   "slug": "asthma",
+   "title": "Acute severe asthma",
+   "prompt": "Split screen, cartoon emergency room. A clay patient sits upright gasping, wheezing with little visible whistle swirls coming out. Left: NPC hands the patient a brown paper bag to breathe into and pats his back. Right: SIGMA fits a small clear mask with gentle mist flowing out, the whistle swirls fade, the patient's shoulders drop and he breathes easily and gives a thumbs up. Family-friendly.",
+   "beats": [
+    [
+     0,
+     "Acute severe asthma. Can't finish sentences."
+    ],
+    [
+     3,
+     "NPC: \"breathe into this bag.\""
+    ],
+    [
+     6.5,
+     "SIGMA: O2, nebulised salbutamol, steroid."
+    ]
+   ],
+   "end": [
+    "Oxygen, nebs, steroids.",
+    "Not a paper bag."
+   ],
+   "caption": "Acute severe asthma in adults: oxygen to SpO2 94-98%, nebulised salbutamol 5 mg (oxygen-driven), and steroids (prednisolone 40-50 mg or IV hydrocortisone 100 mg).\n\nSave this.\n\n#EMREE #medicalinterns #UAEdoctors #asthma #emergencymedicine",
+   "fact": {
+    "claim": "Acute severe asthma adult: O2 to 94-98%, salbutamol 5 mg O2-driven neb, prednisolone 40-50 mg or IV hydrocortisone 100 mg",
+    "check": "BTS/NICE/SIGN asthma pathway (acute: SIGN 158)",
+    "verified": "Right Decisions NHS Scotland BTS/NICE/SIGN pathway, adults in hospital. Checked 18 Nov 2026."
+   },
+   "labels": true,
+   "fx": [
+    {
+     "kind": "stamp",
+     "t": 4.6,
+     "text": "WRONG DECADE",
+     "color": "coral"
+    },
+    {
+     "kind": "punch",
+     "t": 8
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 56,
+   "date": "2027-01-12"
+  },
+  {
+   "slug": "mistake-ghosts",
+   "title": "Your mistakes come back",
+   "prompt": "Single scene, a dark bedroom. Little glowing translucent clay ghosts shaped like crumpled exam papers float out of NPC's wardrobe and under his bed and chase him around the room as he screams and hides under the blanket. SIGMA, in the same room, calmly catches each ghost in a glass jar, and inside the jar they turn into bright glowing stars that light up the room.",
+   "beats": [
+    [
+     0,
+     "Your wrong answers:"
+    ],
+    [
+     2.5,
+     "NPC: ignores them."
+    ],
+    [
+     6.5,
+     "SIGMA: schedules them."
+    ]
+   ],
+   "end": [
+    "Mistakes come back.",
+    "Make it on your schedule."
+   ],
+   "caption": "Every wrong answer, flag and lucky guess goes into your mistake deck, and comes back right before you'd forget it. That's the deck in DrSigma 2.0.\n\nWhich topic haunts you? Comment it.\n\n#EMREE #medicalinterns #UAEdoctors #studytips #DrSigma",
+   "fact": null,
+   "labels": false,
+   "fx": [
+    {
+     "kind": "glitch",
+     "t": 2.5,
+     "dur": 0.7
+    },
+    {
+     "kind": "shake",
+     "t": 4,
+     "amp": 14
+    },
+    {
+     "kind": "stamp",
+     "t": 7.6,
+     "text": "FIXED",
+     "color": "gold"
+    }
+   ],
+   "feature": "deck",
+   "refs": "both",
+   "n": 57,
+   "date": "2027-01-13"
+  },
+  {
+   "slug": "refresh-finger",
+   "title": "Results refresh",
+   "prompt": "Single scene. NPC refreshes his phone screen with his finger so fast that the finger becomes a blur, smokes, catches a small cartoon flame and he blows on it, then keeps refreshing. In the background SIGMA sits on a sofa calmly sipping tea from a plain cup and reading a book.",
+   "beats": [
+    [
+     0,
+     "10 Jan sitting: results due today."
+    ],
+    [
+     2.5,
+     "NPC since 6 AM:"
+    ],
+    [
+     7,
+     "SIGMA:"
+    ]
+   ],
+   "end": [
+    "Refreshing doesn't",
+    "change the number."
+   ],
+   "caption": "Results for the 10 January sitting are due today, 14 January, on the NIHS calendar. Whatever it says, you have a next move.\n\nComment your plan, not your score.\n\n#EMREE #medicalinterns #UAEdoctors #results #EMREE2027",
+   "fact": {
+    "claim": "Sitting 3 (10 Jan) result date 14 Jan 2027",
+    "check": "NIHS EMREE exam calendar",
+    "verified": "nihs.uaeu.ac.ae EMREE calendar. Checked 18 Nov 2026."
+   },
+   "labels": false,
+   "fx": [
+    {
+     "kind": "speed",
+     "t": 2.5,
+     "dur": 3.5
+    },
+    {
+     "kind": "combo",
+     "t": 4,
+     "n": 999
+    },
+    {
+     "kind": "stamp",
+     "t": 5.6,
+     "text": "FINGER ON FIRE",
+     "color": "coral"
+    }
+   ],
+   "feature": null,
+   "refs": "both",
+   "n": 58,
+   "date": "2027-01-14"
+  },
+  {
+   "slug": "hologram-heart",
+   "title": "Flat vs 3D",
+   "prompt": "Split screen. Left: NPC stares at a flat paper drawing of a heart in a big old textbook, tilts his head left and right, turns the book upside down, totally confused. Right: SIGMA spins a glowing floating 3D hologram of a heart made of thousands of cyan points of light, pulls it apart into chambers with his hands like a sci-fi movie, then snaps it back together.",
+   "beats": [
+    [
+     0,
+     "Learning heart anatomy:"
+    ],
+    [
+     3,
+     "NPC: the flat diagram."
+    ],
+    [
+     6.5,
+     "SIGMA: turns it over. Takes it apart."
+    ]
+   ],
+   "end": [
+    "Turn it over.",
+    "Take it apart."
+   ],
+   "caption": "Hearts aren't flat. Neither should your anatomy be. DrSigma 2.0 has 3D heart, brain and lungs you can spin and take apart.\n\nWhich organ should we add next?\n\n#EMREE #medicalinterns #UAEdoctors #anatomy #DrSigma",
+   "fact": null,
+   "labels": true,
+   "fx": [
+    {
+     "kind": "ecg",
+     "t": 3
+    },
+    {
+     "kind": "whip",
+     "t": 6.4
+    },
+    {
+     "kind": "punch",
+     "t": 8
+    }
+   ],
+   "feature": "anatomy",
+   "refs": "both",
+   "n": 59,
+   "date": "2027-01-15"
+  },
+  {
+   "slug": "leaderboard",
+   "title": "The weekly board",
+   "prompt": "Single scene, a giant shiny clay winners' podium on a stage with spotlights. NPC tries to climb a greasy pole up to the podium, slides down again and again, ending in a heap at the bottom. SIGMA rises up on the top step on a lift platform as golden confetti falls and a trophy drops into his hands, two other small clay students cheer on the second and third steps.",
+   "beats": [
+    [
+     0,
+     "Monday: the board resets."
+    ],
+    [
+     3,
+     "NPC's climb:"
+    ],
+    [
+     6.5,
+     "Top 3 win the week."
+    ]
+   ],
+   "end": [
+    "Correct answers only.",
+    "Resets every Monday."
+   ],
+   "caption": "The DrSigma 2.0 board ranks the week on correct answers only, and resets every Monday. The top three win a trophy.\n\nWho's taking it this week? Tag them.\n\n#EMREE #medicalinterns #UAEdoctors #leaderboard #DrSigma",
+   "fact": null,
+   "labels": false,
+   "fx": [
+    {
+     "kind": "shake",
+     "t": 4.4,
+     "amp": 14
+    },
+    {
+     "kind": "flash",
+     "t": 7
+    },
+    {
+     "kind": "stamp",
+     "t": 7.4,
+     "text": "#1",
+     "color": "gold"
+    }
+   ],
+   "feature": "leaderboard",
+   "refs": "both",
+   "n": 60,
+   "date": "2027-01-16"
+  },
+  {
+   "slug": "free-mock",
+   "title": "The free mock",
+   "prompt": "Single scene, a spaceship-style launch control room made of clay. A giant glowing countdown screen and a big red launch lever. SIGMA pulls the lever, a rocket made of a stack of 120 glowing exam pages launches into the sky through the roof with a trail of cyan light. NPC is holding onto the rocket's tail, flies off with it screaming, and becomes a tiny dot in the sky.",
+   "beats": [
+    [
+     0,
+     "120 questions. 3 hours."
+    ],
+    [
+     3,
+     "The free EMREE mock:"
+    ],
+    [
+     7,
+     "No account. No card."
+    ]
+   ],
+   "end": [
+    "Sit the full length.",
+    "Then you'll know."
+   ],
+   "caption": "The free DrSigma mock: 120 questions, 3 hours, the official blueprint split, from questions reported after real sittings. No account needed. Score at the end.\n\nOpen it on drsigma.net. Then come back and comment your score.\n\n#EMREE #medicalinterns #UAEdoctors #mockexam #DrSigma",
+   "fact": null,
+   "labels": false,
+   "fx": [
+    {
+     "kind": "ecg",
+     "t": 0.4
+    },
+    {
+     "kind": "shake",
+     "t": 3.2,
+     "amp": 26
+    },
+    {
+     "kind": "flash",
+     "t": 3.4
+    },
+    {
+     "kind": "stamp",
+     "t": 7.4,
+     "text": "LAUNCHED",
+     "color": "cyan"
+    }
+   ],
+   "feature": "freemock",
+   "refs": "both",
+   "n": 61,
+   "date": "2027-01-17"
+  }
+ ]
+}
