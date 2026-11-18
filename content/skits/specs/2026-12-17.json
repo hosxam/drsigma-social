@@ -1,0 +1,79 @@
+{
+ "date": "2026-12-17",
+ "n": 30,
+ "slug": "mock-score",
+ "title": "First mock score",
+ "raw": "content/skits/raw/2026-12-17_raw.mp4",
+ "job_id": "3f4c4d6a-be42-48b3-815d-75e03c09cbb7",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "First mock: bad score."
+  },
+  {
+   "t": 1.5,
+   "text": "NPC: quits."
+  },
+  {
+   "t": 4.2,
+   "text": "SIGMA: uses it as the map."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "t": 3.2,
+   "amp": 14
+  },
+  {
+   "kind": "punch",
+   "t": 7.6,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "flash",
+   "t": 7.6
+  }
+ ],
+ "sfx": [
+  [
+   3.2,
+   "boom"
+  ],
+  [
+   5.5,
+   "pop"
+  ],
+  [
+   6.0,
+   "pop"
+  ],
+  [
+   6.5,
+   "pop"
+  ],
+  [
+   7.6,
+   "cash"
+  ]
+ ],
+ "end": [
+  "A low mock is data.",
+  "Not a verdict."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Your first mock tells you where to look, not who you are.\n\nWhat was your first mock score? No judgment here.\n\n#EMREE #mockexam #medicalinterns #UAEdoctors #studymotivation",
+ "fact": null
+}
