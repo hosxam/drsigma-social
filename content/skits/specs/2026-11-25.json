@@ -1,0 +1,58 @@
+{
+ "date": "2026-11-25",
+ "n": 8,
+ "slug": "nobody-emree",
+ "title": "Nobody: / The EMREE:",
+ "raw": "content/skits/raw/2026-11-25_raw.mp4",
+ "job_id": "db294685-d5d8-4b28-84b0-6c2957ef75f6",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Nobody:"
+  },
+  {
+   "t": 1.5,
+   "text": "The EMREE: \"Most appropriate NEXT step?\""
+  },
+  {
+   "t": 5.0,
+   "text": "All 5 options:"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "punch",
+   "t": 1.5,
+   "dur": 1.2,
+   "amt": 0.2
+  },
+  {
+   "kind": "shake",
+   "t": 5.2,
+   "amp": 14
+  }
+ ],
+ "sfx": [
+  [
+   1.5,
+   "boom"
+  ],
+  [
+   5.2,
+   "glitch"
+  ],
+  [
+   8.0,
+   "boing"
+  ]
+ ],
+ "end": [
+  "Read the stem for what",
+  "comes FIRST."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Every option is correct. Only one is correct FIRST.\n\nThat's the whole EMREE in one sentence. Agree?\n\n#EMREE #EMREEprep #medicalinterns #UAEdoctors #DHA",
+ "fact": null
+}
