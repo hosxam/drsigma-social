@@ -1,0 +1,62 @@
+{
+ "date": "2026-11-24",
+ "n": 7,
+ "slug": "one-more-episode",
+ "title": "One more episode",
+ "raw": "content/skits/raw/2026-11-24_raw.mp4",
+ "job_id": "f75306c2-3a3a-4236-bd74-24d1ceca1fb8",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "\"Just one episode, then I study.\""
+  },
+  {
+   "t": 4.0,
+   "text": "Episode 14:"
+  },
+  {
+   "t": 8.6,
+   "text": ""
+  }
+ ],
+ "fx": [
+  {
+   "kind": "punch",
+   "t": 4.0,
+   "dur": 0.6,
+   "amt": 0.12
+  },
+  {
+   "kind": "shake",
+   "t": 8.6,
+   "amp": 22
+  },
+  {
+   "kind": "flash",
+   "t": 8.6
+  }
+ ],
+ "sfx": [
+  [
+   2.0,
+   "whoosh"
+  ],
+  [
+   3.0,
+   "whoosh"
+  ],
+  [
+   8.6,
+   "boom"
+  ]
+ ],
+ "end": [
+  "One episode.",
+  "Or one mock exam."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "The series will still be there in December. Your exam date won't move.\n\nWhat show is stealing your study hours? Comment it.\n\n#EMREE #medicalinterns #procrastination #UAEdoctors #studytok",
+ "fact": null
+}
