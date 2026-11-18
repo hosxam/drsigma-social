@@ -1,0 +1,59 @@
+{
+ "date": "2026-12-22",
+ "n": 35,
+ "slug": "power-up",
+ "title": "Anime power-up",
+ "raw": "content/skits2/raw/2026-12-22_raw.mp4",
+ "job_id": "fa7bee5c-73fe-4f55-8c53-ed2fba16d4fd",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "SIGMA after 1,000 questions:"
+  },
+  {
+   "t": 6.4,
+   "text": "NPC after watching 1 video:"
+  },
+  {
+   "t": 9.5,
+   "text": ""
+  }
+ ],
+ "fx": [
+  {
+   "kind": "speed",
+   "t": 1.2,
+   "dur": 4
+  },
+  {
+   "kind": "flash",
+   "t": 5.0
+  },
+  {
+   "kind": "shake",
+   "t": 5.0,
+   "amp": 24
+  },
+  {
+   "kind": "stamp",
+   "t": 8.6,
+   "text": "POWER LEVEL: 2",
+   "color": "coral"
+  },
+  {
+   "kind": "glitch",
+   "t": 5.0,
+   "dur": 0.3
+  }
+ ],
+ "sfx": [],
+ "end": [
+  "Power levels rise",
+  "one question at a time."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "There's no transformation scene. Just questions, every day, until it shows.\n\nTag the friend who's still charging up.\n\n#EMREE #medicalinterns #UAEdoctors #anime #studymotivation",
+ "fact": null
+}
