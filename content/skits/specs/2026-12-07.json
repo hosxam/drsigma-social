@@ -1,0 +1,65 @@
+{
+ "date": "2026-12-07",
+ "n": 20,
+ "slug": "night-before",
+ "title": "The night before",
+ "raw": "content/skits/raw/2026-12-07_raw.mp4",
+ "job_id": "402a5423-c6e9-4523-ab55-a422c12ac00c",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "NPC, the night before the EMREE:"
+  },
+  {
+   "t": 3.0,
+   "text": "\"I'll revise all 7 specialties tonight.\""
+  },
+  {
+   "t": 8.8,
+   "text": ""
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "t": 2.5,
+   "amp": 10
+  },
+  {
+   "kind": "shake",
+   "t": 8.8,
+   "amp": 24
+  },
+  {
+   "kind": "flash",
+   "t": 8.8
+  }
+ ],
+ "sfx": [
+  [
+   2.0,
+   "whoosh"
+  ],
+  [
+   3.0,
+   "whoosh"
+  ],
+  [
+   4.0,
+   "whoosh"
+  ],
+  [
+   8.8,
+   "boom"
+  ]
+ ],
+ "end": [
+  "The night before is for sleep.",
+  "The weeks before are for this."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Cramming 7 specialties in one night is a plan to fail with extra steps.\n\nWhat do you actually do the night before? Comment it.\n\n#EMREE #examnight #medicalinterns #UAEdoctors #studytok",
+ "fact": null
+}
