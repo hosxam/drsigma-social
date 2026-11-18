@@ -1,0 +1,70 @@
+{
+ "date": "2026-12-28",
+ "n": 41,
+ "slug": "sepsis",
+ "title": "Sepsis: the 1-hour clock",
+ "raw": "content/skits2/raw/2026-12-28_raw.mp4",
+ "job_id": "1f47429e-892f-4532-b4ff-22f1e2e88e0a",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "High-risk sepsis. NEWS2 of 7."
+  },
+  {
+   "t": 2.2,
+   "text": "NPC: waits for every result first."
+  },
+  {
+   "t": 6.0,
+   "text": "SIGMA: IV antibiotics within the hour."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "stamp",
+   "t": 4.2,
+   "text": "00:59:59",
+   "color": "coral"
+  },
+  {
+   "kind": "punch",
+   "t": 8.6,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "whip",
+   "t": 6.0
+  },
+  {
+   "kind": "stamp",
+   "t": 8.8,
+   "text": "ANTIBIOTICS IN",
+   "color": "gold",
+   "y": 1300
+  }
+ ],
+ "sfx": [],
+ "end": [
+  "The clock starts",
+  "at the score."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Suspected sepsis at high risk: broad-spectrum IV antibiotics within 1 hour of calculating the NEWS2 score.\n\nSave this for your EMREE week.\n\n#EMREE #medicalinterns #UAEdoctors #sepsis #emergencymedicine",
+ "fact": {
+  "claim": "High-risk suspected sepsis: IV broad-spectrum antibiotics within 1 hour of NEWS2 calculation",
+  "check": "NICE NG253 (2024)",
+  "verified": "NICE NG253 rec 1.8.3. Checked 18 Nov 2026."
+ }
+}
