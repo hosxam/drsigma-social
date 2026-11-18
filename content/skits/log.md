@@ -27,3 +27,4 @@
 | 2026-12-10 | 23 | gi-bleed | 059a0208-8322-4cc4-8963-58cd87c57050 | NICE CG141 / QS38: holds | 432660811 | Scheduled 10:00 |
 | 2026-12-11 | 24 | skips-public-health | 648bf0db-a74d-4d0b-b79c-285286c9e74b | humour (caption: removed '10 times' number claim) | 432685242 | Scheduled 10:00 |
 | 2026-12-12 | 25 | coffee | 934fb46b-e317-4303-9217-0aeebdd80664 | humour | 432709655 | Scheduled 10:00 |
+| 2026-12-13 | 26 | four-weeks-out | eea3b44b-bca1-4b5f-b543-2ce5d906f001 | humour | 432738389 | Scheduled 10:00 |
