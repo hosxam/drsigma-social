@@ -1,0 +1,71 @@
+{
+ "date": "2026-12-23",
+ "n": 36,
+ "slug": "deadline-23dec",
+ "title": "The door closes today",
+ "raw": "content/skits2/raw/2026-12-23_raw.mp4",
+ "job_id": "a1e371a3-87c6-47a2-a84b-034b05b46d5b",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "27 Dec EMREE: enrolment closes today."
+  },
+  {
+   "t": 2.0,
+   "text": "NPC: \"I'll do it tomorrow.\""
+  },
+  {
+   "t": 5.6,
+   "text": "Tomorrow:"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "stamp",
+   "t": 7.6,
+   "text": "LOCKED OUT",
+   "color": "coral"
+  },
+  {
+   "kind": "shake",
+   "t": 7.4,
+   "amp": 22
+  },
+  {
+   "kind": "speed",
+   "t": 4.0,
+   "dur": 1.5
+  },
+  {
+   "kind": "punch",
+   "t": 9.0,
+   "dur": 0.9,
+   "amt": 0.1
+  }
+ ],
+ "sfx": [
+  [
+   1,
+   "snore",
+   0.8
+  ],
+  [
+   5.6,
+   "boom",
+   0.8
+  ]
+ ],
+ "end": [
+  "Enrol today.",
+  "Thank yourself on the 27th."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Sitting the EMREE on 27 December? Enrolment closes today, 23 December, on the NIHS calendar. Check the portal now, not tonight.\n\nNot ready for the 27th? Use the free calculator on drsigma.net to see which sitting your hours can reach.\n\nSend this to the friend who always says tomorrow.\n\n#EMREE #medicalinterns #UAEdoctors #EMREE2026 #deadline",
+ "fact": {
+  "claim": "Sitting 2 (27 Dec 2026) enrolment window 4-23 Dec 2026",
+  "check": "NIHS EMREE exam calendar",
+  "verified": "nihs.uaeu.ac.ae EMREE calendar: enrolment 4 Dec-23 Dec 2026, exam 27 Dec 2026. Checked 18 Nov 2026."
+ }
+}
