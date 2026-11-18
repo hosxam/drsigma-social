@@ -1,0 +1,71 @@
+{
+ "date": "2026-12-12",
+ "n": 25,
+ "slug": "coffee",
+ "title": "Coffee count",
+ "raw": "content/skits/raw/2026-12-12_raw.mp4",
+ "job_id": "934fb46b-e317-4303-9217-0aeebdd80664",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Coffee #1: focus."
+  },
+  {
+   "t": 3.5,
+   "text": "Coffee #6:"
+  },
+  {
+   "t": 7.0,
+   "text": "Coffee #9: can hear colours."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "t": 3.5,
+   "amp": 8,
+   "dur": 0.6
+  },
+  {
+   "kind": "shake",
+   "t": 7.0,
+   "amp": 26,
+   "dur": 0.8
+  },
+  {
+   "kind": "flash",
+   "t": 7.0
+  }
+ ],
+ "sfx": [
+  [
+   0.5,
+   "pop"
+  ],
+  [
+   2.0,
+   "pop"
+  ],
+  [
+   3.5,
+   "glitch"
+  ],
+  [
+   7.0,
+   "glitch"
+  ],
+  [
+   7.6,
+   "boing"
+  ]
+ ],
+ "end": [
+  "Sleep is a study tool.",
+  "Use it."
+ ],
+ "cta": "10 free pages: drsigma.net/try",
+ "caption": "Caffeine borrows focus from tomorrow. The exam is also tomorrow.\n\nWhat number coffee are you on today?\n\n#EMREE #medicalinterns #UAEdoctors #studylife #coffee",
+ "fact": null
+}
