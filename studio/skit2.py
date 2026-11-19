@@ -299,7 +299,7 @@ def end_card(t, lines, cta):
     for y in range(0, H, 6): ds.line((0, y, W, y), fill=(250, 248, 242, 7))
     im.alpha_composite(sl); d = ImageDraw.Draw(im)
     # ECG sweep
-    u = clamp(t / 1.1); pts = [p for p in ecg_points(-20, W + 20, 1500, 120, phase=0.2) if p[0] <= -20 + (W + 40) * u]
+    u = clamp(t / 1.1); pts = [p for p in ecg_points(-20, W + 20, 1730, 110, phase=0.2) if p[0] <= -20 + (W + 40) * u]
     if len(pts) > 1: glow_line(im, pts, CYAN, 6, 26, 200)
     k = ease_back(clamp(t / 0.35)); lw = max(1, int(280 * k)); lh = max(1, int(lw * _logo.height / _logo.width))
     lg = _logo.resize((lw, lh)); im.alpha_composite(lg, ((W - lw) // 2, 520 - lh // 2))

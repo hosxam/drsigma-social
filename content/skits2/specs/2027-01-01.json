@@ -1,0 +1,65 @@
+{
+ "date": "2027-01-01",
+ "n": 45,
+ "slug": "new-year-mirror",
+ "title": "New year, new me",
+ "raw": "content/skits2/raw/2027-01-01_raw.mp4",
+ "job_id": "fe2f4066-e787-40c1-9072-3743399f7640",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "1 January:"
+  },
+  {
+   "t": 1.2,
+   "text": "NPC: \"New year, new me.\""
+  },
+  {
+   "t": 5.4,
+   "text": "Also NPC:"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "t": 3.3
+  },
+  {
+   "kind": "whip",
+   "t": 3.2
+  },
+  {
+   "kind": "stamp",
+   "t": 6.6,
+   "text": "PATCH NOTES: NONE",
+   "color": "coral"
+  },
+  {
+   "kind": "glitch",
+   "t": 3.4,
+   "dur": 0.4
+  },
+  {
+   "kind": "punch",
+   "t": 5.4,
+   "dur": 0.9,
+   "amt": 0.12
+  }
+ ],
+ "sfx": [
+  [
+   1.5,
+   "whoosh",
+   0.6
+  ]
+ ],
+ "end": [
+  "Nothing changes at midnight.",
+  "Things change at 10 a day."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "January doesn't make you study. A small daily habit does.\n\nWhat's your EMREE resolution? Make it a number.\n\n#EMREE #medicalinterns #UAEdoctors #newyearnewme #studymotivation",
+ "fact": null
+}
