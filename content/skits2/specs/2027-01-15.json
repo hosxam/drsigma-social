@@ -1,0 +1,64 @@
+{
+ "date": "2027-01-15",
+ "n": 59,
+ "slug": "hologram-heart",
+ "title": "Flat vs 3D",
+ "raw": "content/skits2/raw/2027-01-15_raw.mp4",
+ "job_id": "0f0f9574-7bd7-4cdf-9784-d0e17c3cc048",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Learning heart anatomy:"
+  },
+  {
+   "t": 2.5,
+   "text": "NPC: the flat diagram."
+  },
+  {
+   "t": 6.0,
+   "text": "SIGMA: spins it. Takes it apart."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "ecg",
+   "t": 2.5
+  },
+  {
+   "kind": "whip",
+   "t": 6.2
+  },
+  {
+   "kind": "punch",
+   "t": 7.4,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "stamp",
+   "t": 4.6,
+   "text": "WHICH WAY IS UP?",
+   "color": "coral",
+   "y": 1470
+  }
+ ],
+ "sfx": [],
+ "end": [
+  "Turn it over.",
+  "Take it apart."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Hearts aren't flat. Neither should your anatomy be. DrSigma 2.0 has 3D heart, brain and lungs you can spin and take apart.\n\nWhich organ should we add next?\n\n#EMREE #medicalinterns #UAEdoctors #anatomy #DrSigma",
+ "fact": null
+}
