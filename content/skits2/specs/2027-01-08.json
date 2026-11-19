@@ -1,0 +1,69 @@
+{
+ "date": "2027-01-08",
+ "n": 52,
+ "slug": "hours-calculator",
+ "title": "Can I make the sitting",
+ "raw": "content/skits2/raw/2027-01-08_raw.mp4",
+ "job_id": "c44389f9-1590-4a4e-8489-fd025f5f1897",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "\"Can I be ready by the next sitting?\""
+  },
+  {
+   "t": 2.5,
+   "text": "NPC's maths:"
+  },
+  {
+   "t": 6.0,
+   "text": "SIGMA: 30 seconds on the calculator."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "glitch",
+   "t": 5.0,
+   "dur": 0.6
+  },
+  {
+   "kind": "ecg",
+   "t": 6.2
+  },
+  {
+   "kind": "punch",
+   "t": 8.2,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "shake",
+   "t": 5.0,
+   "amp": 16
+  }
+ ],
+ "sfx": [
+  [
+   5.0,
+   "boom",
+   0.7
+  ]
+ ],
+ "end": [
+  "Know your sitting.",
+  "Then walk the path."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Pick a sitting, type your real hours, mark your weak specialties. The free study-time calculator tells you which EMREE sitting you can actually be ready for, and what each day needs.\n\nFree, no account: drsigma.net\n\n#EMREE #medicalinterns #UAEdoctors #studyplan #DrSigma",
+ "fact": null
+}
