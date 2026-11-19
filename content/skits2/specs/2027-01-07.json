@@ -1,0 +1,72 @@
+{
+ "date": "2027-01-07",
+ "n": 51,
+ "slug": "ectopic",
+ "title": "Pregnancy test first",
+ "raw": "content/skits2/raw/2027-01-07_raw.mp4",
+ "job_id": "25c219f6-38ed-435c-a092-742fee678053",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Woman, 26. Lower abdominal pain."
+  },
+  {
+   "t": 2.0,
+   "text": "The NPC move: \"gastritis, take an antacid.\""
+  },
+  {
+   "t": 5.0,
+   "text": "The SIGMA move: pregnancy test first."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "stamp",
+   "t": 3.6,
+   "text": "MISSED ECTOPIC",
+   "color": "coral"
+  },
+  {
+   "kind": "punch",
+   "t": 8.4,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "flash",
+   "t": 5.2
+  },
+  {
+   "kind": "stamp",
+   "t": 6.0,
+   "text": "TEST FIRST",
+   "color": "gold",
+   "y": 1350
+  }
+ ],
+ "sfx": [
+  [
+   5.2,
+   "buzz",
+   0.7
+  ],
+  [
+   5.8,
+   "buzz",
+   0.6
+  ]
+ ],
+ "end": [
+  "Reproductive age + pain:",
+  "think pregnancy."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Any woman of reproductive age with abdominal pain: think pregnancy, and offer a pregnancy test even when symptoms are non-specific. Missing an ectopic is the mistake you don't get back.\n\nSave this.\n\n#EMREE #medicalinterns #UAEdoctors #ectopic #obgyn #emergencymedicine",
+ "fact": {
+  "claim": "Offer pregnancy test to women of reproductive age even with non-specific symptoms",
+  "check": "NICE NG126",
+  "verified": "NICE NG126 rec 1.3.5. Checked 18 Nov 2026."
+ }
+}
