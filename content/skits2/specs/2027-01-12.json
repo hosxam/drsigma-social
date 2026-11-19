@@ -1,0 +1,64 @@
+{
+ "date": "2027-01-12",
+ "n": 56,
+ "slug": "asthma",
+ "title": "Acute severe asthma",
+ "raw": "content/skits2/raw/2027-01-12_raw.mp4",
+ "job_id": "cc749ce2-50c0-4270-8d31-975865e8e1fa",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Acute severe asthma. Can't finish sentences."
+  },
+  {
+   "t": 3,
+   "text": "NPC: \"breathe into this bag.\""
+  },
+  {
+   "t": 6.5,
+   "text": "SIGMA: oxygen, nebulised salbutamol, steroid."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "stamp",
+   "t": 4.2,
+   "text": "WRONG DECADE",
+   "color": "coral"
+  },
+  {
+   "kind": "punch",
+   "t": 7.2,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "xp",
+   "t": 8.6,
+   "text": "+50 XP · RESUS READY"
+  }
+ ],
+ "sfx": [],
+ "end": [
+  "Oxygen, nebs, steroids.",
+  "Not a paper bag."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Acute severe asthma in adults: oxygen to SpO2 94-98%, nebulised salbutamol 5 mg (oxygen-driven), and steroids (prednisolone 40-50 mg or IV hydrocortisone 100 mg).\n\nSave this.\n\n#EMREE #medicalinterns #UAEdoctors #asthma #emergencymedicine",
+ "fact": {
+  "claim": "Acute severe asthma adult: O2 to 94-98%, salbutamol 5 mg O2-driven neb, prednisolone 40-50 mg or IV hydrocortisone 100 mg",
+  "check": "BTS/NICE/SIGN asthma pathway (acute: SIGN 158)",
+  "verified": "Right Decisions NHS Scotland BTS/NICE/SIGN pathway, adults in hospital. Checked 18 Nov 2026."
+ }
+}
