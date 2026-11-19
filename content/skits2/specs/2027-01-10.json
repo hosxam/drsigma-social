@@ -1,0 +1,57 @@
+{
+ "date": "2027-01-10",
+ "n": 54,
+ "slug": "soul-leaves",
+ "title": "Question 1",
+ "raw": "content/skits2/raw/2027-01-10_raw.mp4",
+ "job_id": "63b9ca9c-d735-4a74-a826-eef4db543560",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "EMREE day. Question 1:"
+  },
+  {
+   "t": 1.6,
+   "text": "NPC:"
+  },
+  {
+   "t": 6.4,
+   "text": "SIGMA: skips it, comes back later."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "glitch",
+   "t": 1.6,
+   "dur": 0.6
+  },
+  {
+   "kind": "stamp",
+   "t": 3.4,
+   "text": "SOUL.EXE LEFT",
+   "color": "coral"
+  },
+  {
+   "kind": "punch",
+   "t": 7.0,
+   "dur": 0.9,
+   "amt": 0.12
+  }
+ ],
+ "sfx": [
+  [
+   2.5,
+   "riser",
+   0.6
+  ]
+ ],
+ "end": [
+  "Skip the weird one.",
+  "Come back with time."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Question 1 is always the strange one. Flag it, move on, bank the easy marks, come back.\n\nGood luck to everyone sitting today.\n\n#EMREE #medicalinterns #UAEdoctors #examday #EMREE2027",
+ "fact": null
+}
