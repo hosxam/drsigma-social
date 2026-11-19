@@ -26,3 +26,4 @@
 | 2027-01-09 | 53 | pillow-fight | d6a1760b-09c0-4f48-8e98-cb620cc5b723 | humour | 434016252 | Scheduled 10:00 |
 | 2027-01-10 | 54 | soul-leaves | 63b9ca9c-d735-4a74-a826-eef4db543560 | humour | 434104067 | Scheduled 10:00 |
 | 2027-01-11 | 55 | stampede | 39f1e777-3098-4af4-a5d5-88512426b75d | NIHS calendar (sittings 4-6 enrol from 11 Jan): holds | 434195219 | Scheduled 10:00 |
+| 2027-01-12 | 56 | asthma | cc749ce2 | BTS/NICE/SIGN asthma pathway (acute: SIGN 158), checked 18 Nov | 434292963 | scheduled (split-screen; O2 spelled out) |
