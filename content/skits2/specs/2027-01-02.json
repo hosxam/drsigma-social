@@ -1,0 +1,68 @@
+{
+ "date": "2027-01-02",
+ "n": 46,
+ "slug": "stroke-clock",
+ "title": "Stroke: scan now",
+ "raw": "content/skits2/raw/2027-01-02_raw.mp4",
+ "job_id": "cd096f01-ed24-448c-bbcb-e4b395e4ff8c",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Sudden face droop. Arm weakness."
+  },
+  {
+   "t": 1.5,
+   "text": "NPC: \"let's wait and see.\""
+  },
+  {
+   "t": 3.4,
+   "text": "SIGMA: CT now. Alteplase window: 4.5 h."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "stamp",
+   "t": 6.4,
+   "text": "TIME = BRAIN",
+   "color": "coral"
+  },
+  {
+   "kind": "whip",
+   "t": 3.4
+  },
+  {
+   "kind": "punch",
+   "t": 8.4,
+   "dur": 0.9,
+   "amt": 0.12
+  },
+  {
+   "kind": "speed",
+   "t": 2.4,
+   "dur": 1.4
+  }
+ ],
+ "sfx": [],
+ "end": [
+  "Time is brain.",
+  "Scan first, decide fast."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Suspected ischaemic stroke: immediate non-contrast CT when thrombolysis may be indicated. Alteplase within 4.5 hours of onset, once haemorrhage is excluded.\n\nSave this.\n\n#EMREE #medicalinterns #UAEdoctors #stroke #emergencymedicine",
+ "fact": {
+  "claim": "Immediate non-enhanced CT if thrombolysis indicated; alteplase within 4.5 h of onset once ICH excluded",
+  "check": "NICE NG128",
+  "verified": "NICE NG128 recommendations (imaging, alteplase within 4.5 h, ICH excluded). Checked 18 Nov 2026."
+ }
+}
