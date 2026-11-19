@@ -1,0 +1,61 @@
+{
+ "date": "2027-01-11",
+ "n": 55,
+ "slug": "stampede",
+ "title": "Enrolment opens",
+ "raw": "content/skits2/raw/2027-01-11_raw.mp4",
+ "job_id": "39f1e777-3098-4af4-a5d5-88512426b75d",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Enrolment opens for 24 Jan, 7 Feb, 21 Feb."
+  },
+  {
+   "t": 2.0,
+   "text": "Everyone at once:"
+  },
+  {
+   "t": 6.2,
+   "text": "SIGMA, enrolled at 9:01:"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "t": 3.0,
+   "amp": 24
+  },
+  {
+   "kind": "stamp",
+   "t": 4.8,
+   "text": "TRAMPLED",
+   "color": "coral"
+  },
+  {
+   "kind": "punch",
+   "t": 7.0,
+   "dur": 0.9,
+   "amt": 0.12
+  }
+ ],
+ "sfx": [
+  [
+   1.0,
+   "boom",
+   0.7
+  ]
+ ],
+ "end": [
+  "Pick your sitting.",
+  "Enrol early."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Enrolment opens today, 11 January, for the 24 Jan, 7 Feb and 21 Feb EMREE sittings (NIHS calendar). The 24 Jan window closes on the 20th.\n\nNot sure which one? The free calculator on drsigma.net tells you which sitting your hours can reach.\n\n#EMREE #medicalinterns #UAEdoctors #EMREE2027",
+ "fact": {
+  "claim": "Sittings 4-6 (24 Jan, 7 Feb, 21 Feb 2027) enrol from 11 Jan; sitting 4 window closes 20 Jan",
+  "check": "NIHS EMREE exam calendar",
+  "verified": "nihs.uaeu.ac.ae EMREE calendar. Checked 18 Nov 2026."
+ }
+}
