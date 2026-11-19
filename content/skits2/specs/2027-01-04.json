@@ -1,0 +1,70 @@
+{
+ "date": "2027-01-04",
+ "n": 48,
+ "slug": "study-squad",
+ "title": "Study squad",
+ "raw": "content/skits2/raw/2027-01-04_raw.mp4",
+ "job_id": "b2f268e6-bf56-4b63-8616-233b87d39642",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Studying with your squad:"
+  },
+  {
+   "t": 4.0,
+   "text": "NPC, studying alone, in the back:"
+  },
+  {
+   "t": 6.6,
+   "text": "Today's winner:"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "combo",
+   "t": 2.4,
+   "n": 8
+  },
+  {
+   "kind": "stamp",
+   "t": 7.2,
+   "text": "SQUAD WIN",
+   "color": "gold"
+  },
+  {
+   "kind": "shake",
+   "t": 4.6,
+   "amp": 14
+  },
+  {
+   "kind": "flash",
+   "t": 6.6
+  }
+ ],
+ "sfx": [
+  [
+   4.2,
+   "tick",
+   0.7
+  ],
+  [
+   4.4,
+   "tick",
+   0.7
+  ],
+  [
+   4.6,
+   "glitch",
+   0.7
+  ]
+ ],
+ "end": [
+  "Find your eight.",
+  "Win the day."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Study with up to 8 friends. Everyone sees how far the others got today, and a daily challenge decides who takes it. Study groups are live in DrSigma 2.0.\n\nTag the 7 people you'd study with.\n\n#EMREE #medicalinterns #UAEdoctors #studygroup #DrSigma",
+ "fact": null
+}
