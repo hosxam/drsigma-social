@@ -1,0 +1,58 @@
+{
+ "date": "2027-01-05",
+ "n": 49,
+ "slug": "bullet-time",
+ "title": "Dodging distractors",
+ "raw": "content/skits2/raw/2027-01-05_raw.mp4",
+ "job_id": "6ce859ae-9bc9-4dbd-ae38-168822f1f1db",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "EMREE distractors:"
+  },
+  {
+   "t": 3.5,
+   "text": "SIGMA:"
+  },
+  {
+   "t": 6.5,
+   "text": "NPC:"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "speed",
+   "t": 0.5,
+   "dur": 3.5
+  },
+  {
+   "kind": "stamp",
+   "t": 5.2,
+   "text": "DODGED",
+   "color": "cyan",
+   "y": 1300
+  },
+  {
+   "kind": "shake",
+   "t": 7.6,
+   "amp": 20
+  },
+  {
+   "kind": "stamp",
+   "t": 8.4,
+   "text": "HIT x47",
+   "color": "coral",
+   "y": 1250
+  }
+ ],
+ "sfx": [],
+ "end": [
+  "Distractors look right.",
+  "That's their job."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Every wrong option is built to look right to someone who half-knows the topic. Read why each one is wrong, not just why the answer is right.\n\nWhich distractor got you this week? Comment the topic.\n\n#EMREE #medicalinterns #UAEdoctors #examtips #studytok",
+ "fact": null
+}
