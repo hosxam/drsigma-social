@@ -1,0 +1,56 @@
+{
+ "date": "2027-01-16",
+ "n": 60,
+ "slug": "leaderboard",
+ "title": "The weekly board",
+ "raw": "content/skits2/raw/2027-01-16_raw.mp4",
+ "job_id": "99e97483-fb2d-403d-98ff-3ada7601b9b4",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Monday: the board resets."
+  },
+  {
+   "t": 2.4,
+   "text": "NPC's climb:"
+  },
+  {
+   "t": 6.4,
+   "text": "Top 3 win the week."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "t": 4.3,
+   "amp": 14
+  },
+  {
+   "kind": "flash",
+   "t": 7.0
+  },
+  {
+   "kind": "stamp",
+   "t": 7.6,
+   "text": "#1",
+   "color": "gold",
+   "y": 1450
+  },
+  {
+   "kind": "hp",
+   "t0": 2.4,
+   "t1": 4.6,
+   "label": "GRIP"
+  }
+ ],
+ "sfx": [],
+ "end": [
+  "Correct answers only.",
+  "Resets every Monday."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "The DrSigma 2.0 board ranks the week on correct answers only, and resets every Monday. The top three win a trophy.\n\nWho's taking it this week? Tag them.\n\n#EMREE #medicalinterns #UAEdoctors #leaderboard #DrSigma",
+ "fact": null
+}
