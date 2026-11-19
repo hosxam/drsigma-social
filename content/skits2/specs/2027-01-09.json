@@ -1,0 +1,74 @@
+{
+ "date": "2027-01-09",
+ "n": 53,
+ "slug": "pillow-fight",
+ "title": "Sleep the night before",
+ "raw": "content/skits2/raw/2027-01-09_raw.mp4",
+ "job_id": "d6a1760b-09c0-4f48-8e98-cb620cc5b723",
+ "duration": 10,
+ "labels": [
+  [
+   "NPC",
+   0.25
+  ],
+  [
+   "SIGMA",
+   0.75
+  ]
+ ],
+ "beats": [
+  {
+   "t": 0,
+   "text": "10 Jan EMREE tomorrow."
+  },
+  {
+   "t": 2.0,
+   "text": "NPC at 2 AM:"
+  },
+  {
+   "t": 6.5,
+   "text": "SIGMA at 10 PM:"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "t": 3.5,
+   "amp": 18
+  },
+  {
+   "kind": "stamp",
+   "t": 4.0,
+   "text": "ROUND 12",
+   "color": "coral"
+  },
+  {
+   "kind": "flash",
+   "t": 4.8
+  }
+ ],
+ "sfx": [
+  [
+   2.5,
+   "hit",
+   0.7
+  ],
+  [
+   3.0,
+   "hit",
+   0.7
+  ],
+  [
+   3.5,
+   "hit",
+   0.7
+  ]
+ ],
+ "end": [
+  "The last night is for sleep.",
+  "Not for chapter 14."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Sitting tomorrow? Close the book. Sleep is part of the plan.\n\nGood luck to everyone on the 10th.\n\n#EMREE #medicalinterns #UAEdoctors #examnight #sleep",
+ "fact": null
+}
