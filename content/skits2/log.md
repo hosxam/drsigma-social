@@ -18,3 +18,4 @@
 | 2027-01-01 | 45 | new-year-mirror | fe2f4066-e787-40c1-9072-3743399f7640 | humour | 433604416 | Scheduled 10:00 |
 | 2027-01-02 | 46 | stroke-clock | cd096f01-ed24-448c-bbcb-e4b395e4ff8c | NICE NG128: holds | 433654680 | Scheduled 10:00 |
 | 2027-01-03 | 47 | sunday-mock | 604afd0b-720a-46b7-8036-b09ded6fd5ef | 2.0 feature (Sunday mock) | 433698211 | Scheduled 10:00 |
+| 2027-01-04 | 48 | study-squad | b2f268e6-bf56-4b63-8616-233b87d39642 | 2.0 feature (study group) | 433741346 | Scheduled 10:00 |
