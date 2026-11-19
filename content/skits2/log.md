@@ -21,3 +21,4 @@
 | 2027-01-04 | 48 | study-squad | b2f268e6-bf56-4b63-8616-233b87d39642 | 2.0 feature (study group) | 433741346 | Scheduled 10:00 |
 | 2027-01-05 | 49 | bullet-time | 6ce859ae-9bc9-4dbd-ae38-168822f1f1db | humour | 433779940 | Scheduled 10:00 |
 | 2027-01-06 | 50 | deadline-6jan | 4cb408af-a67a-4581-b6ab-bda38e307151 | NIHS calendar (sitting 3 closes 6 Jan; 4-6 open 11 Jan): holds | 433819453 | Scheduled 10:00 |
+| 2027-01-07 | 51 | ectopic | 25c219f6-38ed-435c-a092-742fee678053 | NICE NG126 rec 1.3.5: holds (NPC not in clip: labels removed, beats reworded) | 433866382 | Scheduled 10:00 |
