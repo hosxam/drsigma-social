@@ -16,3 +16,4 @@
 | 2026-12-30 | 43 | rapid-fire | 110d182e-8904-4d99-9df1-09e82eb6f340 | 2.0 feature (rapid fire) | 433483852 | Scheduled 10:00 |
 | 2026-12-31 | 44 | results-nye | 562df006-b667-4dff-8675-b929ea71fdb5 | NIHS calendar (sitting 2 result 31 Dec): holds | 433550981 | Scheduled 10:00 |
 | 2027-01-01 | 45 | new-year-mirror | fe2f4066-e787-40c1-9072-3743399f7640 | humour | 433604416 | Scheduled 10:00 |
+| 2027-01-02 | 46 | stroke-clock | cd096f01-ed24-448c-bbcb-e4b395e4ff8c | NICE NG128: holds | 433654680 | Scheduled 10:00 |
