@@ -28,3 +28,4 @@
 | 2027-01-11 | 55 | stampede | 39f1e777-3098-4af4-a5d5-88512426b75d | NIHS calendar (sittings 4-6 enrol from 11 Jan): holds | 434195219 | Scheduled 10:00 |
 | 2027-01-12 | 56 | asthma | cc749ce2 | BTS/NICE/SIGN asthma pathway (acute: SIGN 158), checked 18 Nov | 434292963 | scheduled (split-screen; O2 spelled out) |
 | 2027-01-13 | 57 | mistake-ghosts | 42830a2a | n/a (feature skit) | 434392540 | scheduled |
+| 2027-01-14 | 58 | refresh-finger | da230df1 | NIHS EMREE calendar: 10 Jan sitting results 14 Jan, checked 18 Nov | 434488657 | scheduled |
