@@ -23,3 +23,4 @@
 | 2027-01-06 | 50 | deadline-6jan | 4cb408af-a67a-4581-b6ab-bda38e307151 | NIHS calendar (sitting 3 closes 6 Jan; 4-6 open 11 Jan): holds | 433819453 | Scheduled 10:00 |
 | 2027-01-07 | 51 | ectopic | 25c219f6-38ed-435c-a092-742fee678053 | NICE NG126 rec 1.3.5: holds (NPC not in clip: labels removed, beats reworded) | 433866382 | Scheduled 10:00 |
 | 2027-01-08 | 52 | hours-calculator | c44389f9-1590-4a4e-8489-fd025f5f1897 | 2.0 feature (calculator) | 433934010 | Scheduled 10:00 |
+| 2027-01-09 | 53 | pillow-fight | d6a1760b-09c0-4f48-8e98-cb620cc5b723 | humour | 434016252 | Scheduled 10:00 |
