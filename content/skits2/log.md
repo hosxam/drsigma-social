@@ -31,3 +31,4 @@
 | 2027-01-14 | 58 | refresh-finger | da230df1 | NIHS EMREE calendar: 10 Jan sitting results 14 Jan, checked 18 Nov | 434488657 | scheduled |
 | 2027-01-15 | 59 | hologram-heart | 0f0f9574 | n/a (feature skit) | 434580454 | scheduled |
 | 2027-01-16 | 60 | leaderboard | 99e97483 | n/a (feature skit) | 434669745 | scheduled |
+| 2027-01-17 | 61 | free-mock | 55c466d7 | n/a (feature skit) | 434756759 | scheduled |
