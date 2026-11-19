@@ -1,0 +1,64 @@
+{
+ "date": "2027-01-06",
+ "n": 50,
+ "slug": "deadline-6jan",
+ "title": "The lift doors",
+ "raw": "content/skits2/raw/2027-01-06_raw.mp4",
+ "job_id": "4cb408af-a67a-4581-b6ab-bda38e307151",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "10 Jan sitting: enrolment closes today."
+  },
+  {
+   "t": 3.0,
+   "text": "NPC, at 11:58 PM:"
+  },
+  {
+   "t": 7.4,
+   "text": ""
+  }
+ ],
+ "fx": [
+  {
+   "kind": "speed",
+   "t": 3.0,
+   "dur": 3
+  },
+  {
+   "kind": "shake",
+   "t": 7.6,
+   "amp": 24
+  },
+  {
+   "kind": "stamp",
+   "t": 7.8,
+   "text": "DOORS CLOSED",
+   "color": "coral"
+  },
+  {
+   "kind": "whip",
+   "t": 3.0
+  }
+ ],
+ "sfx": [
+  [
+   5.5,
+   "slide",
+   0.7
+  ]
+ ],
+ "end": [
+  "Enrol first.",
+  "Panic never."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Want the 10 January EMREE? Enrolment closes today, 6 January, on the NIHS calendar. Sittings on 24 Jan, 7 Feb and 21 Feb open for enrolment on 11 January.\n\nSend this to the friend who runs for lifts.\n\n#EMREE #medicalinterns #UAEdoctors #EMREE2027 #deadline",
+ "fact": {
+  "claim": "Sitting 3 (10 Jan 2027) enrolment closes 6 Jan; sittings 4-6 enrol from 11 Jan",
+  "check": "NIHS EMREE exam calendar",
+  "verified": "nihs.uaeu.ac.ae EMREE calendar. Checked 18 Nov 2026."
+ }
+}
