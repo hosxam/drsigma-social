@@ -1,0 +1,53 @@
+{
+ "date": "2027-01-17",
+ "n": 61,
+ "slug": "free-mock",
+ "title": "The free mock",
+ "raw": "content/skits2/raw/2027-01-17_raw.mp4",
+ "job_id": "55c466d7-c60d-4576-b937-260a097177c0",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "120 questions. 3 hours."
+  },
+  {
+   "t": 2.8,
+   "text": "The free EMREE mock:"
+  },
+  {
+   "t": 6.8,
+   "text": "No account. No card."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "ecg",
+   "t": 0.4
+  },
+  {
+   "kind": "shake",
+   "t": 3.4,
+   "amp": 26
+  },
+  {
+   "kind": "flash",
+   "t": 3.6
+  },
+  {
+   "kind": "stamp",
+   "t": 7.4,
+   "text": "LAUNCHED",
+   "color": "cyan"
+  }
+ ],
+ "sfx": [],
+ "end": [
+  "Sit the full length.",
+  "Then you'll know."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "The free DrSigma mock: 120 questions, 3 hours, the official blueprint split, from questions reported after real sittings. No account needed. Score at the end.\n\nOpen it on drsigma.net. Then come back and comment your score.\n\n#EMREE #medicalinterns #UAEdoctors #mockexam #DrSigma",
+ "fact": null
+}
