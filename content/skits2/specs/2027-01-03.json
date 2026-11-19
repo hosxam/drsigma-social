@@ -1,0 +1,65 @@
+{
+ "date": "2027-01-03",
+ "n": 47,
+ "slug": "sunday-mock",
+ "title": "Sunday mock",
+ "raw": "content/skits2/raw/2027-01-03_raw.mp4",
+ "job_id": "604afd0b-720a-46b7-8036-b09ded6fd5ef",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Every Sunday. 9:00 AM."
+  },
+  {
+   "t": 2.6,
+   "text": "Same paper. Same clock. Everyone."
+  },
+  {
+   "t": 5.6,
+   "text": "NPC, every Sunday:"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "ecg",
+   "t": 2.4
+  },
+  {
+   "kind": "speed",
+   "t": 5.8,
+   "dur": 1.6
+  },
+  {
+   "kind": "stamp",
+   "t": 7.4,
+   "text": "SAFE",
+   "color": "gold"
+  },
+  {
+   "kind": "punch",
+   "t": 3.0,
+   "dur": 1.2,
+   "amt": 0.1
+  },
+  {
+   "kind": "whip",
+   "t": 8.5
+  }
+ ],
+ "sfx": [
+  [
+   3.0,
+   "ding",
+   0.9
+  ]
+ ],
+ "end": [
+  "Practise the real thing.",
+  "Weekly."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "One live 120-question mock every Sunday at 9:00. Same paper, same clock, results for everyone at once. That's the Sunday mock in DrSigma 2.0.\n\nSee you there. Arrive before the croissant.\n\n#EMREE #medicalinterns #UAEdoctors #mockexam #DrSigma",
+ "fact": null
+}
