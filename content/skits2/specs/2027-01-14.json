@@ -1,0 +1,55 @@
+{
+ "date": "2027-01-14",
+ "n": 58,
+ "slug": "refresh-finger",
+ "title": "Results refresh",
+ "raw": "content/skits2/raw/2027-01-14_raw.mp4",
+ "job_id": "da230df1-a8bd-459e-a348-184841a291ee",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "10 Jan sitting: results due today."
+  },
+  {
+   "t": 2.0,
+   "text": "NPC since 6 AM:"
+  },
+  {
+   "t": 6.8,
+   "text": "SIGMA: sips tea. Plans the next move."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "speed",
+   "t": 2.0,
+   "dur": 3.5
+  },
+  {
+   "kind": "combo",
+   "t": 4.6,
+   "n": 999
+  },
+  {
+   "kind": "stamp",
+   "t": 3.4,
+   "text": "FINGER ON FIRE",
+   "color": "coral",
+   "y": 1740
+  }
+ ],
+ "sfx": [],
+ "end": [
+  "Refreshing doesn't",
+  "change the number."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Results for the 10 January sitting are due today, 14 January, on the NIHS calendar. Whatever it says, you have a next move.\n\nComment your plan, not your score.\n\n#EMREE #medicalinterns #UAEdoctors #results #EMREE2027",
+ "fact": {
+  "claim": "Sitting 3 (10 Jan) result date 14 Jan 2027",
+  "check": "NIHS EMREE exam calendar",
+  "verified": "nihs.uaeu.ac.ae EMREE calendar. Checked 18 Nov 2026."
+ }
+}
