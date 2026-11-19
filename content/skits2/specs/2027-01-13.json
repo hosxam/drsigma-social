@@ -1,0 +1,55 @@
+{
+ "date": "2027-01-13",
+ "n": 57,
+ "slug": "mistake-ghosts",
+ "title": "Your mistakes come back",
+ "raw": "content/skits2/raw/2027-01-13_raw.mp4",
+ "job_id": "42830a2a-c9e0-4259-baec-babcb7738fbe",
+ "duration": 10,
+ "labels": [],
+ "beats": [
+  {
+   "t": 0,
+   "text": "Your wrong answers:"
+  },
+  {
+   "t": 2.2,
+   "text": "NPC: runs from them."
+  },
+  {
+   "t": 4.8,
+   "text": "SIGMA: collects them."
+  }
+ ],
+ "fx": [
+  {
+   "kind": "glitch",
+   "t": 2.2,
+   "dur": 0.7
+  },
+  {
+   "kind": "shake",
+   "t": 3.4,
+   "amp": 14
+  },
+  {
+   "kind": "stamp",
+   "t": 6.3,
+   "text": "FIXED",
+   "color": "gold"
+  },
+  {
+   "kind": "xp",
+   "t": 9.0,
+   "text": "+1 TOPIC MASTERED"
+  }
+ ],
+ "sfx": [],
+ "end": [
+  "Mistakes come back.",
+  "Make them come back on your schedule."
+ ],
+ "cta": "drsigma.net | 7 days of everything · no card",
+ "caption": "Every wrong answer, flag and lucky guess goes into your mistake deck, and comes back right before you'd forget it. That's the deck in DrSigma 2.0.\n\nWhich topic haunts you? Comment it.\n\n#EMREE #medicalinterns #UAEdoctors #studytips #DrSigma",
+ "fact": null
+}
