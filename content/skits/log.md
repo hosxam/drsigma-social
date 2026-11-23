@@ -17,15 +17,15 @@
 | 2026-11-30 | 13 | study-plan | e5691b9a-502b-4fec-a0a7-73c90e20e43d | humour | 432458340 | Scheduled 10:00 |
 | 2026-12-01 | 14 | drug-of-choice | 731e817f-9ad4-4350-9647-a5f8d30e4443 | NICE NG217 s7: holds (caption made specific: IV lorazepam / buccal midazolam; 2nd line after 2 benzo doses) | 432470716 | Scheduled 10:00 |
 | 2026-12-02 | 15 | eid-break | a7808073-0f02-4b56-8021-7ada06f99747 | humour (beats reworded: no 'long weekend' / '4 days off' claim) | 432481564 | Scheduled 10:00 |
-| 2026-12-03 | 16 | meningitis | 6dd477de-444a-4e8e-97c9-3250aa84813a | NICE NG240 (2024): holds | 432498359 | Scheduled 10:00 |
-| 2026-12-04 | 17 | flashcards | 1ec5a41c-ab52-420d-bdbe-e5457ad3f198 | humour | 432513684 | Scheduled 10:00 |
-| 2026-12-05 | 18 | first-option | 674fa184-1370-4ea4-9690-a9eecfb95d13 | humour (freeze text 'SEE YOU IN MAY' changed to 'RESIT': no exam date claim) | 432530942 | Scheduled 10:00 |
+| 2026-12-03 | 16 | meningitis | 6dd477de-444a-4e8e-97c9-3250aa84813a | NICE NG240 (2024): holds | 438369987 | Scheduled 18:00 (timing test) |
+| 2026-12-04 | 17 | flashcards | 1ec5a41c-ab52-420d-bdbe-e5457ad3f198 | humour | 438369999 | Scheduled 18:00 (timing test) |
+| 2026-12-05 | 18 | first-option | 674fa184-1370-4ea4-9690-a9eecfb95d13 | humour (freeze text 'SEE YOU IN MAY' changed to 'RESIT': no exam date claim) | 438370009 | Scheduled 18:00 (timing test) |
 | 2026-12-06 | 19 | hypoglycaemia | 08ac7f4c-6ce2-4d79-8c02-5d0a9254a150 | JBDS-IP hypoglycaemia (glucagon 1 mg IM): holds | 432553922 | Scheduled 10:00 |
-| 2026-12-07 | 20 | night-before | 402a5423-c6e9-4523-ab55-a422c12ac00c | humour | 432578451 | Scheduled 10:00 |
+| 2026-12-07 | 20 | night-before | 402a5423-c6e9-4523-ab55-a422c12ac00c | humour | 438370022 | Scheduled 18:00 (timing test) |
 | 2026-12-08 | 21 | bank-proof | b0ba0409-0949-496b-bdec-1b418b838521 | promo (product facts per CLAUDE.md) | 432604867 | Scheduled 10:00 |
-| 2026-12-09 | 22 | ward-round | f20bc10e-1df5-4cc9-b900-258355839fcb | humour | 432635178 | Scheduled 10:00 |
+| 2026-12-09 | 22 | ward-round | f20bc10e-1df5-4cc9-b900-258355839fcb | humour | 438370029 | Scheduled 18:00 (timing test) |
 | 2026-12-10 | 23 | gi-bleed | 059a0208-8322-4cc4-8963-58cd87c57050 | NICE CG141 / QS38: holds | 432660811 | Scheduled 10:00 |
-| 2026-12-11 | 24 | skips-public-health | 648bf0db-a74d-4d0b-b79c-285286c9e74b | humour (caption: removed '10 times' number claim) | 432685242 | Scheduled 10:00 |
+| 2026-12-11 | 24 | skips-public-health | 648bf0db-a74d-4d0b-b79c-285286c9e74b | humour (caption: removed '10 times' number claim) | 438370038 | Scheduled 18:00 (timing test) |
 | 2026-12-12 | 25 | coffee | 934fb46b-e317-4303-9217-0aeebdd80664 | humour | 432709655 | Scheduled 10:00 |
 | 2026-12-13 | 26 | four-weeks-out | eea3b44b-bca1-4b5f-b543-2ce5d906f001 | humour | 432738389 | Scheduled 10:00 |
 | 2026-12-14 | 27 | explanations | 8045bd27-294f-4a75-922c-24e3ab12a4e6 | humour | 432766772 | Scheduled 10:00; tablet logo blurred |

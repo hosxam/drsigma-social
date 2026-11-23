@@ -14,7 +14,7 @@ The factory run makes every missing skit in one go, back to back, then schedules
 
 ## Steps
 1. `cd` to the repo, `git pull`. Read `content/skits/concepts.json` and `content/skits/log.md`.
-2. Work out what is missing: a skit is DONE when `media/<date>_skit-<NN>_<slug>.mp4` exists in the repo AND Metricool has a non-draft scheduled post on that date at 10:00 whose media is that file. Skip dates already in the past.
+2. Work out what is missing: a skit is DONE when `media/<date>_skit-<NN>_<slug>.mp4` exists in the repo AND Metricool has a non-draft scheduled post on that date at 10:00 (or at 18:00 for the timing-test dates listed in `content/skits/timing-test.md`) whose media is that file. Never move a timing-test post back to 10:00 or create a second post on its date. Skip dates already in the past.
 3. Character references: upload `assets/characters/npc.png` and `assets/characters/sigma.png` to Higgsfield once per run (`media_upload`, PUT, `media_confirm`). If the upload fails, go on with text-only prompts.
 4. Generate the clips for every missing skit. Model `seedance_2_5`, `mode: "omni_reference"` with both refs as `image_references` (or `mode: "t2v"` if refs failed), `aspect_ratio: "9:16"`, `duration: 10`, `resolution: "720p"`, `generate_audio: false`, `use_unlim: true`. Prompt = the skit's `prompt` + " " + the bank's `style`.
    - Submit up to 3 jobs at a time; keep a queue. On a 429 rate-limit, wait 2-5 minutes and try that one again (sleep in steps under 2 minutes). Don't resubmit a job whose outcome is unknown; check it with `jobs_wait` first.
