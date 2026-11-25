@@ -1,0 +1,4 @@
+captions-seo-v1 done
+
+Run of 25 Nov 2026 (07:40-07:45 Asia/Dubai): all 24 not-yet-published reels from 25 Nov to 18 Dec 2026 updated to the caption standard (hook / EMREE search sentence / engagement line / free mock + exam dates line / 5 hashtags) with EMREE alt text. Dates, times (incl. 18:00 timing-test posts), media, autoPublish and isAiGenerated unchanged. Medical hooks kept word for word.
+Metricool post ids changed on update (uuids unchanged). New ids: 25 Nov 441217920, 26 Nov 441218104, 27 Nov 441218110, 28 Nov 441218122, 29 Nov 441218130, 30 Nov 441218139, 1 Dec 441218147, 2 Dec 441218369, 3 Dec 441218377, 4 Dec 441218387, 5 Dec 441218391, 6 Dec 441218401, 7 Dec 441218407, 8 Dec 441218544, 9 Dec 441218549, 10 Dec 441218556, 11 Dec 441218562, 12 Dec 441218570, 13 Dec 441218575, 14 Dec 441218766, 15 Dec 441218775, 16 Dec 441218783, 17 Dec 441218798, 18 Dec 441218809.
